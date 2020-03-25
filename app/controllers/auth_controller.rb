@@ -1,5 +1,6 @@
 class AuthController < ApplicationController
   def registration
+    
   end
 
   def login

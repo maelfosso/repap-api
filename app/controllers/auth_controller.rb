@@ -15,6 +15,18 @@ class AuthController < ApplicationController
   end
 
   def login
+    user = User.find_by(email: params[:username]) || User.find_by(phone: params[:username])
+    if user && user.authenticate(params[:password])
+      token = encode_token(user.payload)
+      render json: {
+        user: user,
+        jwt: token
+      }
+    else 
+      render json: {
+        failure: "Log in failed! Username or password invalid!"
+      }, status: :not_acceptable
+    end
   end
 
   def logout

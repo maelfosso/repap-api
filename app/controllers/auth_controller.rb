@@ -1,4 +1,6 @@
 class AuthController < ApplicationController
+  skip_before_action :require_login, only: [:registration, :login, :auto_login]
+
   def registration
     user = User.create(registration_params)
     if user.valid?
@@ -49,10 +51,6 @@ class AuthController < ApplicationController
 
   def registration_params
     params.require(:auth).permit(:email, :phone, :name, :password, :password_confirmation)
-  end
-
-  def encode_token(payload)
-    JWT.encode(payload, "repap-api")
   end
 
 end

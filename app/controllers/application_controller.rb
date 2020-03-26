@@ -1,4 +1,10 @@
 class ApplicationController < ActionController::API
+  before_action :require_login
+
+  def encode_token(payload)
+    JWT.encode(payload, "repap-api")
+  end
+  
   def session_user
     decoded_hash = decoded_token
     if !decoded_hash.empty?
@@ -7,6 +13,16 @@ class ApplicationController < ActionController::API
     else 
       nil
     end
+  end
+
+  def logged_in?
+    !!session_user
+  end
+
+  def require_login
+    render json: {
+      message: 'Please login'
+    }, status: :unauthorized unless logged_in?
   end
 
   def auth_header

@@ -1,12 +1,17 @@
 class HotelsController < ApplicationController
 
   def create
-    @hotel = Hotel.create!(hotel_params)
-    json_params(@hotel, :created)
+    @hotel = Hotel.new(hotel_params)
+    @hotel.user = @current_user
+    if @hotel.save
+      json_response(@hotel, :created)
+    else
+      json_response(@hotel.errors, :not_acceptable)
+    end
   end
 
   def hotel_params
-    params.permit(:name, :phone, :address, :infos, :latlng)
+    params.permit(:name, :phone, :price, :address, :infos, :latlng)
   end
 
 end

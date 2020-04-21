@@ -6,7 +6,7 @@ class HotelsController < ApplicationController
     if @hotel.save
       json_response(@hotel, :created)
     else
-      json_response(@hotel.errors, :not_acceptable)
+      json_response(@hotel.errors, :unprocessable_entity)
     end
   end
 

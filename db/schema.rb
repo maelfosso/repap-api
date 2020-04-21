@@ -10,7 +10,20 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_03_25_104407) do
+ActiveRecord::Schema.define(version: 2020_04_21_052344) do
+
+  create_table "hotels", force: :cascade do |t|
+    t.string "name"
+    t.string "phone"
+    t.string "address"
+    t.string "infos"
+    t.string "latlng"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.integer "user_id"
+    t.decimal "price"
+    t.index ["user_id"], name: "index_hotels_on_user_id"
+  end
 
   create_table "users", force: :cascade do |t|
     t.string "email"
@@ -21,4 +34,5 @@ ActiveRecord::Schema.define(version: 2020_03_25_104407) do
     t.datetime "updated_at", precision: 6, null: false
   end
 
+  add_foreign_key "hotels", "users"
 end

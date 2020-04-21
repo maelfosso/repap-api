@@ -1,4 +1,6 @@
 class ApplicationController < ActionController::API
+  include Response
+  
   before_action :require_login
 
   def encode_token(payload)
@@ -9,7 +11,7 @@ class ApplicationController < ActionController::API
     decoded_hash = decoded_token
     if !decoded_hash.empty?
       email = decoded_hash[0]['email']
-      @user = User.find_by(email: email)
+      @current_user = User.find_by(email: email)
     else 
       nil
     end

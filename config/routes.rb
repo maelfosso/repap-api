@@ -8,4 +8,5 @@ Rails.application.routes.draw do
   get "auth/user_is_authed",  to: "auth#user_is_authed"
 
   post "/hotels",             to: "hotels#create"
+  post "/hotels/:id/photos",  to: "hotels#add_photo"
 end

@@ -9,4 +9,5 @@ Rails.application.routes.draw do
 
   post "/hotels",             to: "hotels#create"
   post "/hotels/:id/photos",  to: "hotels#add_photo"
+  get  "/hotels/:id",         to: "hotels#show"
 end

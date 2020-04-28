@@ -1,5 +1,5 @@
 class HotelsController < ApplicationController
-  before_action :set_hotel, only: [:add_photo]
+  before_action :set_hotel, only: [:add_photo, :show]
 
   def create
     @hotel = Hotel.new(hotel_params)
@@ -18,6 +18,10 @@ class HotelsController < ApplicationController
     else 
       json_response(@hotel.errors, :unprocessable_entity)
     end
+  end
+
+  def show
+    json_response(@hotel)
   end
 
   def hotel_params

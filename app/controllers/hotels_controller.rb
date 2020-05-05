@@ -1,4 +1,5 @@
 class HotelsController < ApplicationController
+  before_action :set_hotel, only: [:add_photo, :show]
 
   def create
     @hotel = Hotel.new(hotel_params)
@@ -10,8 +11,25 @@ class HotelsController < ApplicationController
     end
   end
 
+  def add_photo
+    @hotel.photos.attach(params[:files])
+    if @hotel.save
+      json_response(@hotel, :created)
+    else 
+      json_response(@hotel.errors, :unprocessable_entity)
+    end
+  end
+
+  def show
+    json_response(@hotel)
+  end
+
   def hotel_params
     params.permit(:name, :phone, :price, :address, :infos, :latlng)
+  end
+
+  def set_hotel
+    @hotel = Hotel.find(params[:id])
   end
 
 end

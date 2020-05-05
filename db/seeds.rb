@@ -8,6 +8,7 @@
 require 'database_cleaner'
 
 DatabaseCleaner.clean_with(:truncation)
+API_KEY = 'AIzaSyBHaVnhN3gSB5otSpmKqutxuMaL878KItY'
 
 user = User.create!(
   :name => "Bob Alice",
@@ -30,4 +31,12 @@ records.each do |record|
 
     :user => user
   )
+
+  record["photos"].each do |photo|
+    url = "https://maps.googleapis.com/maps/api/place/photo?maxwidth=#{photo["width"]}&photoreference=#{photo["photo_reference"]}&key=#{API_KEY}"
+    download = open(url)
+
+    hotel.photos.attach(io: download, filename: Faker::File.file_name(ext: "jpg"))
+    hotel.save! 
+  end
 end

@@ -1,0 +1,1661 @@
+[
+  {
+    "id": "6a57b1737072d799546e8bd9817d5039b1d03f04",
+    "name": "Hotel New Palace",
+    "latlng": "4.750683, 11.216667",
+    "phone": "",
+    "place_id": "ChIJM088lK_bihARb4reWv2sQKE",
+    "rating": 3.5,
+    "url": "https://maps.google.com/?cid=11619477242767116911",
+    "website": "",
+    "address": "Bafia, Cameroon",
+    "photos": []
+  },
+  {
+    "id": "f85954f53b68fa08674a79bd38e65bcece0dbb90",
+    "name": "Hotel Jouvence International",
+    "latlng": "3.8712877, 11.5282827",
+    "phone": "+237 6 91 62 04 22",
+    "place_id": "ChIJOypmkizFixARyvj9LU0mN78",
+    "rating": 3.7,
+    "url": "https://maps.google.com/?cid=13778523697889278154",
+    "website": "",
+    "address": "Ave Marcel Marigoh Mboua, Yaounde, Cameroon",
+    "photos": [
+      {
+        "height": 756,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111736756733797193107\">Hotel Jouvence International</a>"
+        ],
+        "photo_reference": "CmRaAAAABmDWxrGG3PaQVE9Fc79h4uikTkZPqKu13HnRunjcZ3upmgbfSCj9ai9W8mDcx7miFUquyG56gQ8TswgWX_KQPyaHn1qcULj84jCybFTDDYXcrTL--FMPGdUSXO3Y6dzvEhDAIkQ6tjQHvjKHhdmaSChVGhQb_ni5lkChDqXRsAnqlM3D_h5bgQ",
+        "width": 1008
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111736756733797193107\">Hotel Jouvence International</a>"
+        ],
+        "photo_reference": "CmRaAAAAzTAQMYFJpHFM1MmVC42qJC99UW_qeQox6EdgL2Vq-JANW2B22YSNrYqVlGvMxpvQhZd1BDbMM6vg8-5VUSA-CDvutcKMw9A7wJIKPf_mcEMaR97AAYPkAMtohIeLsbLXEhA7_4WJ_xXTTdUCPcJHPfc2GhQihtnaupAN3JbuJGTriCBD2w0PCQ",
+        "width": 4608
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111736756733797193107\">Hotel Jouvence International</a>"
+        ],
+        "photo_reference": "CmRaAAAAeDc0VBix9IUWu63Cn4A8e1ssVtJXOxzo1MTcQb14Y_96QBZc63HaNZqh01uZJxdavUJc82Dsy0RpdYORcusR3fIxix1mzybefzpiUcIMDbY2tj3b2i1elX46PARwyGvkEhAkMo85gRzqWgFcCi0YlgIHGhSf9kg47GNXywVlUFg70kVQTXP2Ww",
+        "width": 4608
+      },
+      {
+        "height": 1960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111736756733797193107\">Hotel Jouvence International</a>"
+        ],
+        "photo_reference": "CmRaAAAAc_QJkgjYOBTA4CIct4Fc2I6ghffuApNcc2q-UWcnfB1Bx1ojGFK2bRKnKlwzd5xnn0hg02WAa398rtYh0ijVE78o6jNCkVqeZLiu3gnoWUhyLXh-b7FMv5G2g0aaNOSmEhD57Z5ITPOD_WYDaeQnwSIDGhTgbZQKO3b-FuD4BSF-xTkY4HrYBw",
+        "width": 4032
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111736756733797193107\">Hotel Jouvence International</a>"
+        ],
+        "photo_reference": "CmRaAAAAIl4F7Q35VPou8TC8ZCut47f5RXIlgqCR2emnYn2fYm4cCVqDx_UMVeH4FjhT7DNUbwOledRX7XtBTdAzwfTgt1dRiQmrW4K7av3XTFbWhaJ36zVyFATdzpnjPPUaOIxlEhADtiS7vXc4KTPKY9frJp5oGhRCgLBY08AHowzKwKMlpvrLM7EQQQ",
+        "width": 4608
+      },
+      {
+        "height": 1960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111736756733797193107\">Hotel Jouvence International</a>"
+        ],
+        "photo_reference": "CmRaAAAAbdd1TcHv800mdlqwxQV74WBr7nDyhDJub92XYHTc7fIwIrXRCSXcEtozL4-IKHBlT7bE6kEeEUaUVJtNRL0cWcJdCxPVOJo8yMlACMvXaV3_VZAAtzDMmULfDTztCjz6EhDb6F70a1KMUN7SHtHLkJGZGhTxB3QW-UWj1VGlt8EwYD3FUg-Wkw",
+        "width": 4032
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111736756733797193107\">Hotel Jouvence International</a>"
+        ],
+        "photo_reference": "CmRaAAAAGhMNJuzH_79-5ZoumDnL5seJoGoZACi4K1bmd0DxjHvVSiT5-gdtPryFQ5eieLQ0jFZImjker_iPo7I_DnJFTKQI-F-AUcd2ldcmODsx2VqpwYrjxqkeqpoSqIorNAiqEhBeZwfTSOTgtkNtxuAutPVGGhSFqyEDJEkNFl2EzZx_YKc-bxZHDA",
+        "width": 4608
+      },
+      {
+        "height": 1960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111736756733797193107\">Hotel Jouvence International</a>"
+        ],
+        "photo_reference": "CmRaAAAAGqACIIDp_tK4nSWaJOGo6mS2LbVheSesrdSYKT8F3kK4U8KQNlPx0SbeYV5hkjDSbCuxFzumF1s-ydJk-018ZB6ZJD8uYOQx9eHwIiLZZKBBi5JysGKT4ba0TZ1pyjNpEhBNHb-MhdZWuouCIDoVTG5EGhSxYVmYOxiy_B9PDUtlf7FxPAkd2A",
+        "width": 4032
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111736756733797193107\">Hotel Jouvence International</a>"
+        ],
+        "photo_reference": "CmRaAAAANm06ZNA9EIkXWdQusjEsKaShKDYfmhqbr9nDBFVyVx78EYXvtKue_1lwhimnZITNS9JwRpiim16SYKqcb5YA-uSvzK85unvqyNpZ5Q4UKchnfwuJHYqNN5Y5FHPjDnhcEhD7dJOvHCqSCjd5Npb9sVRUGhQhRf95l14arGqiizhu15nM-ZU-Zw",
+        "width": 4608
+      },
+      {
+        "height": 1960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111736756733797193107\">Hotel Jouvence International</a>"
+        ],
+        "photo_reference": "CmRaAAAAlw5zsY9VUY_L-AKX1rCPe1cszGF9tEZnt1ptfW68oDggfyboSkHqVlihV-CuvJNlZnr4Fv6Jiww6ghBybOW1EvWHn-HdTEXqKg4CcOXn5s_57UN3PaqCsDW_hZ2rCa5GEhCWcHBo10barbdd-46Ej7ebGhTvwml-Bt8YnGG0fwVAgrE2P1Tc_A",
+        "width": 4032
+      }
+    ]
+  },
+  {
+    "id": "2ce54c9cdf19ab46e8f2440f27e00e7c06121d9f",
+    "name": "Tou'Ngou Hotel",
+    "latlng": "3.8828474, 11.5228822",
+    "phone": "+237 6 98 30 50 61",
+    "place_id": "ChIJubV7imHPixARvXShR0bEJWM",
+    "rating": 3.5,
+    "url": "https://maps.google.com/?cid=7144332190021678269",
+    "website": "http://www.toungouhotel.com/",
+    "address": "Rue Onembele Nkou, Yaounde, Cameroon",
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112050351021805881942\">Simo Denoe</a>"
+        ],
+        "photo_reference": "CmRaAAAAnOrpywlk73Er70qIuUF6TDbohmwXrsxe27SrEH0-5NfH-SVw2fjpkBRqp0tie0zWyU3iGecBYsZ-jGaHij4pNJ9auKbC7U8z2P2L98kJRgk8PoDsAyrsxwY581FKO5mlEhACaPL7CMjfOYjFn3oMY-PTGhSMbgOFe3yhD9jMZr4YveJROGLQZQ",
+        "width": 5312
+      },
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110851722348073916932\">Raoul Sinko</a>"
+        ],
+        "photo_reference": "CmRaAAAARBUeNDlLlkslN5EGJ2l64A8vy4pJmDg48uC7T2MrdKtGrpGwzRNrc3U3ZZ8eYcZ4qwA_wwfMEJM13tOhfnDIkAi096x9Sg24XtAQEx2bI_FLojYbxAANoOQZDkSrQbiYEhCTrKWC8-FFLu6d6SA8tYTZGhTXkZ6TPBGCaxAyP7Buge6HmINXhQ",
+        "width": 2322
+      },
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110851722348073916932\">Raoul Sinko</a>"
+        ],
+        "photo_reference": "CmRaAAAAG8YX5XRuJnjpJ7Hcx8SRFpHXxZO-001Wul01rQi7qnFLSmtScCBkFpIZhrAxZbuYMXY8eUhCaeBI8EgEHfvWBnn7gumMlb6P0jiSzmLsP75Qo-MJDoxx4fKiaQAUJ9u7EhBmjjFQOXUDVfGgpZIWdW-BGhTXLdANkePqq1h5v_qciGqMaaRYNQ",
+        "width": 2322
+      },
+      {
+        "height": 2160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110077836727151993091\">Léonard</a>"
+        ],
+        "photo_reference": "CmRaAAAAerVhEQ8esaLnPQRCNrQ0fn_jpSuw8-GhxPb00vrkk4kLN1H72oD1bG-K0zrhnHXj_wu6jtPoC6SI8zhzOJfahv8nXuLJxCoD0q72Gtf_vRi7TNqGnhxbrX02hyg-Mud5EhDqd1Stitkb9IACPBMViGXQGhRZyRcRqqeJ12kfF50-DrnWLdwYeg",
+        "width": 3840
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112642059414028664590\">Jacob Alain</a>"
+        ],
+        "photo_reference": "CmRaAAAAdBX8-LMvwarE5i3raDGR8F3qQUvF6lY2DfZJWoefk7mU79SuzxeWmSiW1FMW4hJNY9CKT487uIArygv2Qvy7Qhi-k-FqZG3fqR75_xC0auz2wq0F4ujE_JZPdZWe4A32EhD7Z-3KfGy_ls_bB7MvnoD9GhQ_jiVcOSZhz1N7o-BBVflHMf4mJA",
+        "width": 4160
+      },
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112050351021805881942\">Simo Denoe</a>"
+        ],
+        "photo_reference": "CmRaAAAA0oeLPnFh6f8pR8TWKR3jISkkpLcqtKqyZCOIux0nwYcaWevhKc1GS3rQEqfGyg8097Q0KIjsIlCW_fAhcCBt4AvakZ-4GyeDglEcZhaVLi1sWUTudX7Tcg9xCxVN-1FpEhBMKYzt627qqdfWQBq3XiToGhTMQ9yaJ0AVD-z-F5ExsKBHNzzz0Q",
+        "width": 5312
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113345598847538809758\">Yaya Nourou</a>"
+        ],
+        "photo_reference": "CmRaAAAAfi0QGkPt4zXkC8iVAhd3u7CwWkcmMDxCbjv0Q0cBDSZ9iwpfFnIJJoEjOtk6RAA-zaOlzzif7ts11vwv4ve7mKWYrhmh7oM_l2VKlU9fRIsIR8lj96RKv641Ukipph6QEhBThevnsWZ6D3aVTeJDBWJdGhTsPEzjSI554nlP8ikExH05vpzw4w",
+        "width": 607
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113174652192127060842\">Bill Somen</a>"
+        ],
+        "photo_reference": "CmRaAAAAeau0rDrZ6E_tFLaUIlJBlt-lJkUR7MXEcIhNSJStuH9h1-9BiDAEy1nHduY6AqhFlX6k1uLIWDbIoSKgQpM8unvdjqNVI-aXhfJRU3-4Y2oZS2zNSlDSvvPNcckDDcFpEhBk6as3TsFyVLQdOeWYKtPrGhSGRMPcaZiRpu_Z-ylx7dkXURnEFw",
+        "width": 3120
+      },
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113590812568331950666\">Pierre-yves Lorenzo Akamba Akamba</a>"
+        ],
+        "photo_reference": "CmRaAAAArGOAYif2SM0DN3mwb4oNl34Bl3j6DttPnuMoU4rC1cYOvgZa-iOfPG5jioGGJcbAhvvSgtvCBXL4g_rGa67t6LRkhATddHyEQHZyrhgfY-v9Erz7bnkEy6-7PBXhSpo1EhDLV1lmUrXKS7pNGk7Xe2onGhTPUfQks0wA8fNtpREw69LADrn_yg",
+        "width": 1456
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112450022848858870448\">Ndim-Ejor Ndifon</a>"
+        ],
+        "photo_reference": "CmRaAAAA9PEL_xxy8csAVtfO2dYTj8EvUEGdxDGzaGHoQ1HIb59nY-OMPK-J7iH5M7bgGlL_c4ncoew5SQyQlxLVDXfPni1Wvis6kMiCVhBR2nFrGpffsDuPdRW07KJt1gn4YqV7EhBmd8VIcVYvtKwl7t5cyLXCGhT7FaofHBAmDOD_VQXpJfOZfKkZ7Q",
+        "width": 2592
+      }
+    ]
+  },
+  {
+    "id": "820878fcfae3ef5bb85129121cf0c9b353d7bcc6",
+    "name": "Hôtel Mont Fébé",
+    "latlng": "3.9126384, 11.4957825",
+    "phone": "+237 2 22 21 40 02",
+    "place_id": "ChIJ71BcEMzIixARAcJWvu5FvVw",
+    "rating": 3.9,
+    "url": "https://maps.google.com/?cid=6682574313785573889",
+    "website": "http://www.hotel-montfebe.cm/",
+    "address": "Mont Febe, Yaoundé, Cameroon",
+    "photos": [
+      {
+        "height": 2828,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100952345900848087618\">PanoflexMedia Medien Design</a>"
+        ],
+        "photo_reference": "CmRaAAAAb6w_mltbrcuVvmrKdWWZigu_RC4r0M-1edyfVmM-IidzDa5dmxKa2nIcVrk1TRkLWozmcIPMW1ehq_urGuZLp9DRoazcs6Tu8J-icztAeV3FIjEUhlhiKCz4iBJ1kAzzEhCzljFK-iesaQALWoQEGtRgGhS0tQUOCmdP1u92dcBsAig6mH41zw",
+        "width": 5656
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112519999252330814074\">Nana Atieku-Frans</a>"
+        ],
+        "photo_reference": "CmRaAAAAmKoCG5r0thXySgvdrbq1_EcIFIlqKQ-aEgQG1QFdVszFV0ABS4oCqiMYX-hRxh-QQvx2CjG9w7ssRHlsl5z_5M19SSRENDb7NTlgm_T8U1B70GhtJL06vxZNf-MUWouhEhDlkI-88d2FAa6rE2EvCg1pGhT1uEI37k_UsQdHzbOzl6HkCIHXWQ",
+        "width": 4160
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104720448929043500288\">Kalliopi Ango Ela</a>"
+        ],
+        "photo_reference": "CmRaAAAAlZoXw7wb1uR6BrC9nQiPfSnuka8oHYD6f9c0FmBWE_0TMUlEWpMxugOUHTqO_aTvO3eHI7-Vp0RjVRAO87Q4cYBbIOPqyHj5TybU8lXoxaAf_3XyJnwjrAoo34cFLAabEhBt8huyzbN8HXtqRkijkJJbGhQPWi2RKGjmZmdw6L2ys5lSooy71w",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111503289283808911035\">Ekatherina Vasquez</a>"
+        ],
+        "photo_reference": "CmRaAAAAx1BOaZx_WgfBg67WDEc8rvI6E9n-XUAuuiMoWAjRZDSf3s4pSB2uQXNe_VcE94pOIekbK2c6y9NgGsuFkUyJQrEOmail8xMfYN_kmTMnpykbA641YNzTwFr39-Lreu-SEhAIGGvo5OzGKwv0V_OZJldXGhSYVfQgKwKdp0c9eXblSXgIy3I8Fg",
+        "width": 2268
+      },
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101023310975040544013\">ADA MBITA Ariel Nathan</a>"
+        ],
+        "photo_reference": "CmRaAAAA-k0UqvgVEJw2_Xi8BJfcOc4dCSGYzmxgg5OJAWx5ERt8S9BggriJHvmj1OzPNZvozXopbmj7BPTxOkAAfVDoFpCg94GF3w_UqLzSENH7Ls94r5fPR572kkgGw0DAdidqEhDUyzfdSlnsw5AnA_5jiLiNGhQ5i0i2ooUwqt3dM1ez1_2JGCLgaQ",
+        "width": 4608
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111801982906783213362\">RAPHAEL HAPPI</a>"
+        ],
+        "photo_reference": "CmRaAAAAiNWNJE53uxC2cbDFSauqN8NOs1NyXIqOTGJhDPsfUY4oDdpJFh8N2GB_JhXvwYIKqy0OilTMNVsjdIGyDkPdKFBU6m8ja26Dff6I7UhdflFbB_Bil0O_IyBYc1WVGJSHEhBNdAuigfsv97fG1JeGIyKgGhQzu7UtDNpINXtrppc_s-3bShXvpA",
+        "width": 3264
+      },
+      {
+        "height": 2304,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106111833361945955324\">Vendeson Efome</a>"
+        ],
+        "photo_reference": "CmRaAAAARfrkEmfEnvKdIM4oBXJQ_uEzG_2qNoUPSGbaxsUv4SzJbzu_zhdTIZ9FPaSXjfRkFaZDz1bNTD3f0SzTTEhUg3MPjgVpGlpJtOEjff3TbKe3Q5sJ5vsjAzsF9MTrrlw_EhDCg8MVk59gdClzRu3hO3msGhRlwkVGvTJUw_k5Hl7RkcqyuOJn6g",
+        "width": 4096
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100078762912170480740\">Nuno Pais</a>"
+        ],
+        "photo_reference": "CmRaAAAANITK8aTcn9n3r7MaKWDGZ2M14BxpHyv3enPwakQQ9ymq6ojm62nLAA2qGZDVtP8A12eq7Vg8x6prHpjl3mi8S5bxewqZVerHo4NdItpP1ErfhJbM3Nk8jX8yTj9onkQ7EhBPE0AcIV3EFbsEwor2WsIiGhRqDLaClrzcnocLbEE7rMB6bveKXw",
+        "width": 1920
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114084956310996997569\">Евгений Орман</a>"
+        ],
+        "photo_reference": "CmRaAAAAnW672xiwRtd1zu4T6DCAklMZ2442RbhGEJFsPMDJBZ43m2L8vikHCwYH91qwbrlMKjHj-8QXFPuAwbDzcJB0ReIhdVn6UksbGx6ZwmT_Pnwp7ztrPHQ9rnj8qmuux0fYEhDZmpZvTGGXWktmOjGABuY-GhQ3QbI2jG3SQWXtsdB0hPzJGtlLqg",
+        "width": 4608
+      },
+      {
+        "height": 1152,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110636317853081880369\">bob scaff</a>"
+        ],
+        "photo_reference": "CmRaAAAA1OZOhuKCCVKqouA9xMds8JSj8VFvte8ajjHjR7JmaaDg7Xa2EsOQq1BnoMuHfYLAxTcUvRAhSwYssDJFGSp8Jxwpj6_ZZ0EFtus36Cl6d1EIVy2XbNbNSORdbaO8ywkLEhAHPV0DqBEjFGAaBCqTsBhLGhSwDI_ocr4Q37N70ROMFMAFSzi8jA",
+        "width": 2048
+      }
+    ]
+  },
+  {
+    "id": "da1fc037cbbbff7d98efba5c5e89d7a232776a3c",
+    "name": "Hotel Mfandena",
+    "latlng": "3.8885647, 11.5370537",
+    "phone": "+237 6 96 48 43 07",
+    "place_id": "ChIJ8S8xZ4LPixARADMFj8eUQvQ",
+    "rating": 3.3,
+    "url": "https://maps.google.com/?cid=17600793878536205056",
+    "website": "",
+    "address": "Avenue Ahidjo, Omnisport, Cameroon",
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101906611407236493963\">Hernild EMAN</a>"
+        ],
+        "photo_reference": "CmRaAAAA35CeU8-Sxzl9-2M-eDv7-6BcpfBpLzwtR_xvgsE3NgV1GoZZ4oHNzgz0WeTnKXIu4Ff2Rmv4FzLdfKq46BRX5DgnsQWd9rIVEWyIK0HW6yqKAXITOjgXpYl4BkC9x4iLEhA5ODyCqFoDEubBtMJEdq6BGhR5M7pJJj1CbyN3ZlWUSEho9sAcrQ",
+        "width": 1920
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108172331649468050907\">Judicael Demengue</a>"
+        ],
+        "photo_reference": "CmRaAAAADEx49oODMVZdtH1h6PI2FL1IQYnJOCG4g5u-pCMBq9vdgVk6xFmguJdYyFsNvUOM9vDnu66sOlVKbBpUCkqQXpzb9YqbC5COSyeR1aCfxXFgdKLJ1WP7m7y_SvjzUX8wEhC8Cgc2V-2SOgDfjk4g6zhZGhQZUZQpu3295Y0IM9uYQetsEgxlQQ",
+        "width": 4608
+      },
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113112068880302146141\">Raoul ATEMOUKA</a>"
+        ],
+        "photo_reference": "CmRaAAAAfAaAn9RfvpXdMcaCMBh2BNWYlDszLETxmcaqlN0CDt0ZiNyX37b2uyia6nj05m_Wc1vc5-Ku77hjA1d0JKtYVKrVSkuqK-FGyPqSSDgksUj3vi_NqXaa86z2IndtHYN-EhDA-yXNjxFyX5ukzsUKa_e7GhS0uXVYnOe-9lUFSRVWsn1GmPvCgA",
+        "width": 4864
+      },
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108172331649468050907\">Judicael Demengue</a>"
+        ],
+        "photo_reference": "CmRaAAAAYTpnXXIWiJFDxwHN9uylFZrvNG15e4PdHlWOHdJ6F86hwtPlR8GNQ3az0beKlNe8MyrWmWzZW6aCryfOnlnY77AnRBDHXRZuBQpM2J5GUu5a3ZtkzCTLU5peCuZDYFl8EhDvWzEvl189Aq1korxWHJ8aGhSfg9L_wIoMPFPujS56MNxPYTjSYQ",
+        "width": 4864
+      },
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108172331649468050907\">Judicael Demengue</a>"
+        ],
+        "photo_reference": "CmRaAAAAWbftehHtg8xXdD3HHcVSwJV-mL_C_pC14bw6iIt-F0XxAUleZzgIF5hY9oapIzupVM9yM1O-eGW9-u3WFL6yIGdOaYgPWzitigUYphDa70cZ_1g1sHgcDTi95081GgHhEhAxuo27flSEx5uP72YapYT5GhQkayfL3jkryurTyrP8ZMq3Dm9fuw",
+        "width": 4864
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114702389896985284496\">christophe neche</a>"
+        ],
+        "photo_reference": "CmRaAAAA8EuPHNInhk5JnyaHpOvtNaQojs8EngKCUPosS3728JEpxUsij5_oBa7k_b04gyMQWcta_5Yxanjb3EnxJFiqWTRkaSV77Jh7WFc3WYVyNvyrQNZR1yS--f05pgY-72XfEhB7jkJmtO3I0ewiZ406xhBbGhRDpmDGO0U1TEfAFj8TjXiG3YAVfg",
+        "width": 4160
+      },
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108172331649468050907\">Judicael Demengue</a>"
+        ],
+        "photo_reference": "CmRaAAAAovs4HL-47dYSMyA30hror34A8ScT2fvzBIPYjcHqiYXVc4wxXGULrxinjXiam28B8zqLHgeooGnyfiD8ZNwKioj62W6YRH3i6xvriODSiczbARvidwiiHxg1jqeWUk33EhBujddVgAVSKExAvwB7u0yVGhRGSdoRe1seTziuXilLYktFoFdp-A",
+        "width": 4864
+      },
+      {
+        "height": 4618,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114702389896985284496\">christophe neche</a>"
+        ],
+        "photo_reference": "CmRaAAAAuQ6E5wqd9rD4TP1ekbtAkS1UxLFsF3W25Rzt0EBU5IZAe6m3YJFvFBcr5gcloQgZiB2csaZO5oxSO0DMmaDnAgS6Vdxgkryjw7Gq9wJpUjMNqJHp0El1vhLwlZ14oy9JEhAWsqnBojh-xbeKGesM7IeZGhSRF-bcYkX5dR6eXbW_svxTY-1g_g",
+        "width": 3464
+      }
+    ]
+  },
+  {
+    "id": "1555ebc3e52e0b0bfc297d1b2da48d53eb7e6a92",
+    "name": "Hilton Yaounde",
+    "latlng": "3.864847199999999, 11.5160905",
+    "phone": "+237 2 22 23 36 46",
+    "place_id": "ChIJ9f__C4PPixARPCFdQmBylWY",
+    "rating": 4.1,
+    "url": "https://maps.google.com/?cid=7391940121154363708",
+    "website": "https://www.hilton.com/en/hotels/yaohitw-hilton-yaounde/?WT.mc_id=zELWAKN0EMEA1HI2DMH3LocalSearch4DGGenericx6YAOHITW",
+    "address": "Boulevard du 20 mai, Yaoundé, Cameroon",
+    "photos": [
+      {
+        "height": 2848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104162221221167967229\">Hilton Yaounde</a>"
+        ],
+        "photo_reference": "CmRaAAAAZ2dWryb8l_OJ6XV9riMHultnG6BcPfN7LRkKgoMF2Bs1Dwylj1djQoGugTYU0BVFnZcGIG5kW-RGR0tAbsKpfdvOdhg6KADtMjFxHypLxEMNazwqsYrz7a4ua8Y3M91dEhAYbLGjeupGYlE0qN5R7C1kGhQzZwfuH9JTbR11FCUFc6zZpLIFyw",
+        "width": 4288
+      },
+      {
+        "height": 3312,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104162221221167967229\">Hilton Yaounde</a>"
+        ],
+        "photo_reference": "CmRaAAAAGottUSQR7uIHhfFiwoMZftEykTnY6UGVwZt5dJ_Dun_kBmQ6QWHlO3gqkRIT01a49Ox-XrsREu5cGGUKghR-5uYf98evNKA4S0L8lhfGBtrG1o21WPPnC2rMK-t4su_EEhD_m3ZGUC72Jn2coe2PzP8TGhTBu3xbT26GNezlQTlmD9tC48-zuw",
+        "width": 5760
+      },
+      {
+        "height": 2322,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101023488156188607401\">Roland Zimmerli</a>"
+        ],
+        "photo_reference": "CmRaAAAAv7s5Bw5wNTr4At4iba7Sp3yQb2lzUJwf1LOkiN9E5vRx4VdVPQkF2R_M6AFBV64Ml_wLhwZcldrYg4_poSretBk6H9iU1n47HfcTQv-znL-mVIf5K7P2gJmZe2s1ws4CEhD5JdV6klW8FcVszLxqjxjZGhTkjIRvviSX34pyxI32_JMiA_q-uA",
+        "width": 4128
+      },
+      {
+        "height": 1290,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104162221221167967229\">Hilton Yaounde</a>"
+        ],
+        "photo_reference": "CmRaAAAAMrW7wd6P66kdsbsEXPSJ-FbunVEIgfSpaMPOKrTCMmdQi5f4HG-3EF90cLPWbT_uUhXahuGaK-pgXRqTsumBKje_nqlwAMxhxZEhQkCHL8pVfL95z261QMDwXu9VSdMAEhCIsaGZHI2EXrsFytmGRnmpGhR4DB40m6WD2CsQF-Kndp42JIaVcw",
+        "width": 2048
+      },
+      {
+        "height": 2937,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104162221221167967229\">Hilton Yaounde</a>"
+        ],
+        "photo_reference": "CmRaAAAAaSQ1m2NJomGFYTKFnU5uL9qaS1B3Qnxv4_CUiKBMY_5eMQb2zpa77a0LMh1GSdDzDsoVRPqjpPd-yeboL8K4X-5Ua1IDx17CTu_eB4mh5tHP7py37d9-1Q0CR-vxJAs6EhDZMN7nuvqtzFVMe18zQTr8GhRUM4N21cWOgd1C81AG8JUM9gEenw",
+        "width": 5760
+      },
+      {
+        "height": 1358,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104162221221167967229\">Hilton Yaounde</a>"
+        ],
+        "photo_reference": "CmRaAAAAOlSCX2ezDpWDl0n0fW-y8UdnLCUkh_Qxxk6Fwo9VwR1CBARmDEabL39sKTGgzjb03ZpaIyZFloEuUQktWRvzo9b_d7P80fjGueRqbIgBfyzHx0NxYB-KMO7knDsSoSfHEhBOe8Mf0O60dhmyAtMtpUhUGhTbzGShq5ESK01cCSArhn1-rEJUfw",
+        "width": 2048
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104162221221167967229\">Hilton Yaounde</a>"
+        ],
+        "photo_reference": "CmRaAAAAeV0z5PhDU6sT-v6Jawo12t8GL3kJVUazsn7lvB0xLFHHNB-xJFhd5fKCZH2gghR7vo3Z3oiT_ksMY24lu148oPWPP1eBzQSgPjzhx1eTpuUQ_ekh_5ZYFUBHZfT-BlZZEhAdLcMcDUnG15jD1b62fO1KGhQbIkWpkjmt2-uPnV27HLqIcRvsYA",
+        "width": 5760
+      },
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104162221221167967229\">Hilton Yaounde</a>"
+        ],
+        "photo_reference": "CmRaAAAAECEnUxfzgmS6fb2fedjK2PnpKsrSLgN2aRhuRwQ5Q3nxza5jockYKNndw8bRB_habmJ3kyXxiX_84SrOAu44yF5wBaw9AGOPPAE_I8REae_ytYfgabRqEFxZ5lfqmxasEhCC1oCphZx2nc421MWnhwM5GhSH3HzSlNGV_hOABJLctPku3Me0_g",
+        "width": 5760
+      },
+      {
+        "height": 3444,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104162221221167967229\">Hilton Yaounde</a>"
+        ],
+        "photo_reference": "CmRaAAAAbBrNdLpdbsozYOyLXppVtwT7GiCq9EgdFvFkyfE-fIw7QM5XOgUkJcVz2i0baO-v7zJAvFnZu5erow1H1_2-W_c8TfNeENm25RH5JFlRB6RDZcKw7Jj9fSb-tRunvE-VEhA7q56zvRjTKf9KggOYpgNfGhQ_rubC6uPGdLdsAwJJMqZ5wqS5jQ",
+        "width": 5496
+      },
+      {
+        "height": 3440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104162221221167967229\">Hilton Yaounde</a>"
+        ],
+        "photo_reference": "CmRaAAAAu_hD56eweMCj09KTYbFKUhGcD0Me4JrFNfbLAY3k8ug8bhE6ZXM4qR9EEmXO_dwg7qoJ7uuHHLYpyxe_hMj_D8isnFyc0gT-cEt5XY4DfkxDTneiS8W-0FMkEVzEx7b4EhDZ0Bz2xwnuNuf9BfDZ4pg9GhQo5WhUuSzI14qMhk89UVKhORa6HQ",
+        "width": 5760
+      }
+    ]
+  },
+  {
+    "id": "7635c4ec21211a6e24e2507732f2e2bb7be10198",
+    "name": "Prestige Hotel Palace, Yaoundé",
+    "latlng": "3.9143861, 11.5244316",
+    "phone": "+237 2 22 21 39 71",
+    "place_id": "ChIJZ1ep16nIixARKBuTy6VVyWw",
+    "rating": 3.5,
+    "url": "https://maps.google.com/?cid=7838890796988439336",
+    "website": "",
+    "address": "Yaounde, Cameroon",
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109217682091287197080\">Vadel Romual</a>"
+        ],
+        "photo_reference": "CmRaAAAAOm-_ltx_9ECaV6M6lslH_ZxFC0phWPdON_QhkxOhHRn_Yeo4lx1w3R99Rhm53FSCK_Kz0SPsRiJlgp_zQIiM-x2EYt_arowbgemYZYo_GIuO_2GH-PAdlq9k2yHFNexbEhDXI9anWsPlpiSwW6wCx8i_GhTGCZUN61s09dXjNjzZ4XoGa2dTbQ",
+        "width": 2080
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117214912746638390705\">Bernalds Motanbou</a>"
+        ],
+        "photo_reference": "CmRaAAAATDSmgWontZSp_IvLyVk2rctp9TsSWmulguPVLxmUNIyoTYkpRXXag6Y7MQLgyTUabPy_7XH7_Y_55-uOpxoH_9SQPVffOjT5GWLOPmQvNm1Y1SepZUZtyymBgv3mDEveEhAiRfyNfz7HzxKCh85eBfKZGhRQAskeMIVij3-UjeDPMNLT1-jf0Q",
+        "width": 720
+      },
+      {
+        "height": 2160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103764697859194511534\">charles kamgang</a>"
+        ],
+        "photo_reference": "CmRZAAAAqlu6PPDwdcKdBw6S2d8sN18RNbnlvU1ew9owxbQgEgw5RBGgmPvjemgKtalXAe9pixHKp1XKECdJX0u_3f60r8QPt46yzZzDDdRk4SxHBHAs4J0bdShZA6a3R5uvzD_HEhDtJ_3Nsg7vVg5mh85kHSedGhQv6BUll5Lxxd3ImHjFjQfJx7IgLw",
+        "width": 3840
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104370252161579460776\">tawany angel</a>"
+        ],
+        "photo_reference": "CmRaAAAADdnavw6JChcPd8bc1jpyxX_duLwWP0nsbx2zJ_nRLTRMr90BR5talolANvKdzVF4hEmvgJY63GRBXePsZVeEIIUnFAWAjN0gGYZikZV6ANGSGy4J5IT4meeF7dvD9yOwEhBmzUIigd3dQsMKhOc3tnVNGhRjXnM5of5CeieA-D7JrysiHdHTZA",
+        "width": 1080
+      },
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103764697859194511534\">charles kamgang</a>"
+        ],
+        "photo_reference": "CmRZAAAAO6lc92c5IvUz-jKlq20UVLL6tkONbiRVoA4aiS8XdrCJAOyCx2juja6K7gM2BzyLeqfoO5DXzQYWkmrj5Aq50YsBFGh0_bVH5oTmUJSRpCIbg28YibG3kPOEzPgdlaB6EhAT3zUxFxi3IUkF0WygHmUCGhT9-MccvkFOKectOtfkjlBJ1EoYsw",
+        "width": 2160
+      },
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103764697859194511534\">charles kamgang</a>"
+        ],
+        "photo_reference": "CmRZAAAAZTESW204_34O3rfPRZN-t0ZjeBE7ekWPhtb0Rw6PMUPM0XL5JL6wxkXzmxW_nhu6ieYbhbycp7qYR0Tj7HkksuacMR6QMOPpPOVIwfkS9J7-30dCW2tnT8OYCraknYOpEhCvbMu7L-WNMijJATj3Nkk2GhRLqZ_aA_PEmhUb4du0MboXWN4rxQ",
+        "width": 2160
+      },
+      {
+        "height": 2160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103764697859194511534\">charles kamgang</a>"
+        ],
+        "photo_reference": "CmRZAAAAejq6QqtoHkOhQsNmhXM-o7c6kpZju4TMF_vyXg9UySZd30nyA1KRaXZ-0jKlkjtLeXdrOu3uw0StSyM2q-sxvF21-r0aSHfoyZ1FCSlnJAofcN-eE8tDBv3jrCQxZIWPEhDN4FudeXQok1-xYxqraV1WGhSdXAvMSiKojc0JBRqU_0AqYSCxfQ",
+        "width": 3840
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104370252161579460776\">tawany angel</a>"
+        ],
+        "photo_reference": "CmRaAAAAZ01oojIQ6ELXZ1girDcYa4H0TH1oSnbPnxA5amHrHVvoCwpY9fmkNMkmanhAseBp__bWqIYDPsWVaPaD2zec_EnwuCFbjRwFE9fftBhHVk68A-KmP4Dc8VuG1hNFFL8LEhC_jK9K6Qb5cJtHL_hbq58OGhRkXHX0vigvFAFr91ekrYKQJc4FIQ",
+        "width": 1080
+      },
+      {
+        "height": 3016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118066586108919317137\">Boris Kamsu</a>"
+        ],
+        "photo_reference": "CmRaAAAAbSOUSbwvRmcTNW9R8qHr_nApEG72vPcTTwhZVPlPjNC6j-kGPd_-p2S-SEP-6afN4yyAiE3NhMOZoBkM1YkbtUfq3BEroZwiVEDfiHqjfS_0GXwrwx6NhCJFuuvuTF8dEhAshjyVyUBC9GXqQKZU1Kv3GhRKbH9TS9H0Bla67jIvysoumpZhXQ",
+        "width": 4032
+      },
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110168155028944147606\">Tidjani Ahmadou</a>"
+        ],
+        "photo_reference": "CmRaAAAA8M0lf1koHaZi2SZmGlgnhVh7YknYM39f97u_cD7W8ka3oIZDgzvpHTyEWpkAXJkmdExV8WpzXqotu1_U7Svu8E2fkqDCVgunCCSoCo9sB6PbB_E6LtZJOc91q4W4ykniEhB-Ps9_f3plRGY7I_xyW6d6GhRO5wL07KDBpehu8EyxyMAYTPg1ew",
+        "width": 2160
+      }
+    ]
+  },
+  {
+    "id": "700e043647bf31d940c188eb7140168e4e49e226",
+    "name": "Hotel Franco",
+    "latlng": "3.8821227, 11.5187341",
+    "phone": "+237 6 91 10 28 90",
+    "place_id": "ChIJ0z6a-GPPixARsmebqRBamkM",
+    "rating": 3.5,
+    "url": "https://maps.google.com/?cid=4871304974566123442",
+    "website": "",
+    "address": "Rue Onembele Nkou, Yaounde, Cameroon",
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109942444631584493877\">Alain Tacgang</a>"
+        ],
+        "photo_reference": "CmRaAAAAj22Y_XTONd9FmXaoRPOi8anZ-5w8PiLOp9Db6ZuslydaexlK7TQzRbPdW5VA7zJ31YffA3V2kBW5AZOqjW80rfGVL81CRzgKORATK628wGIUqYt7QIwhaF0Lb33P-oZgEhBfoQmUswKfFkEaW_FyOyRAGhTvJSdEgXQsqkv5yfLN3DQokMP_NA",
+        "width": 1824
+      },
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110817216516548256984\">Traore Albert</a>"
+        ],
+        "photo_reference": "CmRaAAAAVmkwkLHVPdVOrHEv90ESAa7VH_0n8DGkpIBS9i1JI5ucFUsWU3nDMY0FwZ2KqeUp0lSclkI-wJ1DEUQcYhsyU5X_klpB5F0kn3rWWaPO10hSIGMvAq5OlGd5TMXK_ddeEhCLo6AELxDFQbb-58NAN1nMGhQ4Q6ThrL33giOffVZZY4gGZBLKuA",
+        "width": 2448
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101596561161244106112\">Mamadou Fall</a>"
+        ],
+        "photo_reference": "CmRaAAAA60t2qjBzoCe51pIS8jxzbgMWYYSt9OFdeg8N5FvN5NL6UYnq_mT5Nr0B2Vmr1WmOMWxvyWpAuZkwAXOr30UgNUxPpRbSxF7Vzqcz3V9ZLOLdvI88rhrIYU7cA9uzxjuPEhDbwnGPZVpV4BCpC5ibW594GhSTwbMxWLKlxryUBhBLpcnlEVo71w",
+        "width": 4032
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118235037161816916521\">Cht Jpf</a>"
+        ],
+        "photo_reference": "CmRaAAAA2F24JG3LbplSaMlO3GHkte7WmWqBuerf23aheMQJMFiI790zdPHkDxj_Cfsy390Hi9oIM-hX9Qs-YVs8KEn-P7URickOGYgs4XfRC2tQuWScIYaVGOKiN0TJCSWMhsKVEhDqZcsrV6_S4I5rP0Iwq0rSGhThFYLm89si1P2YsSfW40QWSGG1TQ",
+        "width": 1080
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114498137753923107152\">Manoel Martínez</a>"
+        ],
+        "photo_reference": "CmRaAAAAnpD-kCOOzx2VBjvrdRb6GMDQAQPIM8ELWehIcjXdBhqsy1RFLkt3gYfbDf0HRyufXcTTLSFvioVcxMg5CCaHXmNOwkwT7Zv_jpSrtUGAWvRdiWpgk0wiFofTg-8Qor01EhBBZMmUzJ2OkCSgSKgMpNqqGhQ5MAriiNIU-B_XL6dcnYgRxqcmew",
+        "width": 3264
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101596561161244106112\">Mamadou Fall</a>"
+        ],
+        "photo_reference": "CmRaAAAAdxm8emq2i_MF6ApBNdOyiC0xmZJdSG2YiZQzQqsdl2AeOaLhTglQpetBydaCUXc2bj4D_ZmwzTk0c1YOFY1eQxreXsDhDpBUb76tjCl5URQy9ZP1FEzaEgjLzTZcXm88EhCBHdPN5qqCXPwl9928Tc6EGhQUYo71OpwPbndBZgkeKNt1_JH3xw",
+        "width": 3024
+      },
+      {
+        "height": 1152,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112787086903340157316\">Mapessi Abessolo Junior le Beau</a>"
+        ],
+        "photo_reference": "CmRaAAAAngfxSc-fAIMLo2nfTz3C0-kHFusZD3ufA7FZwGPYwtWTu4f8EwM5ZXRDoCZg0F64BtAZBMVjrM_xqSqPFuBujBBfZy_UJTFIDSRMNDOnb0YbaxJw258M6MXfucV6lcHzEhC4yZZkIYFQ03M5_x5tguWeGhRpsYuuPafvHAT7Dem4s22B5BX0jA",
+        "width": 2048
+      },
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101603140218757572533\">Soule Marafa</a>"
+        ],
+        "photo_reference": "CmRaAAAAOBHNq5ci0tWrYmUmWBt3agoY9FxPLKXeWbJBu2zUQPQcTGmgEmxewtuYpZNFN97503QtApHNYSL9ejRpFeQSlGpPyGtrB6O8TigaBe5dW37e71JQMzkzmfo9Mrvx1N3gEhDLoYCBOEe3JecKlvjSILtGGhSOMes0MXZJ3wif00_5mJlKUOvHMg",
+        "width": 1600
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112119791586067906875\">jos pegjos</a>"
+        ],
+        "photo_reference": "CmRZAAAAt5saSnnGWxytEdmQKQXoVTj57X43DSAXEN7db3vPzmkAwFcyjGq0Dukcak3nw6I84xUUj8RMSO6koVG_ibxhxXvH5UtXUVRGZPbaPZ7WRpUjA8WxmZlf8Uj2Duh2RLJaEhBJkECzBIcXjdLVSWVOEyuAGhRLOf2De6kracssh0Vh5bI-6nUWZA",
+        "width": 3120
+      },
+      {
+        "height": 5312,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103808805006784766651\">Joy Asogi</a>"
+        ],
+        "photo_reference": "CmRaAAAAZczZelj3H5bnWIRBOrpFcVCeWEXuEyRa_Ir1yO-cqFuD5rHK2GqdU7gvJsL0ABpr5q3f26P8ik8VgHL7EQNScQSA4ZGpJCz5s7bWL4u6ueYi0Pl-peEFgbXk_YQHDHHnEhAVNOzqHag3BBuFOSKUf4X-GhSzbY21emNhJfHbaOjz_a9LWKv-Ew",
+        "width": 2988
+      }
+    ]
+  },
+  {
+    "id": "7352ba6935e8c706801a99974c508433db0a3ecb",
+    "name": "Meumi Palace Hotel",
+    "latlng": "3.8922998, 11.5129019",
+    "phone": "+237 6 95 18 42 94",
+    "place_id": "ChIJY-Q0UEPPixARsiXhPMWc-ZI",
+    "rating": 3.3,
+    "url": "https://maps.google.com/?cid=10590668369682310578",
+    "website": "http://meumipalace.com-cameroon.com/",
+    "address": "Yaounde, Cameroon",
+    "photos": [
+      {
+        "height": 2243,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110244910080616919594\">David S. MBANDJOK</a>"
+        ],
+        "photo_reference": "CmRaAAAAdjvc44cqvkcbsGe0hCAUzZK_I8Lf3NM6T3QAjXJxSaxXoqBXGURNv7XI4As56tUH1QxhmcYKl1SrZkJ_eMrxBfRg-ORUJAlk-icIwsjrBm-HQ_3rl6PoDR_H0JSvPDa1EhDzGWsKP5Z2Y3Ezz-jut7FCGhTu1yENY-auDpQm_VmXSzOyPlUfnA",
+        "width": 2543
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116905604384225066735\">Irène Flore YONGNI</a>"
+        ],
+        "photo_reference": "CmRaAAAA_YP0Qg_W_nWaRY-EcJ2kAG50TDe3wz1ym7l_eJkl2MQMWmliY4ylS0OE_4x7X7TAGIyiOy3Aze_3fYtWCGqdz-ZquHJbiheOF2ra4uN2B5c17amARhg4v8tfDJyR4cbwEhDC5MAG79lhT-BKMxMNK3vqGhTeK5H7XvBLkWEfRO_PBkJX4cNHdg",
+        "width": 1920
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113714400287851691338\">Pierre Mithra Tang</a>"
+        ],
+        "photo_reference": "CmRaAAAArBELXitOsPZLN4iYjXdvEhe4s-rxN5kS3k3Eys6NCflc8jjuoPxbM4pTe7BOxIJB3DqKOfLFoB0QgRLw2vqkx1fznjXwwuqEhaXWNm2WUO98jedvJySkEDFfmIJfIZfqEhCMfutTm8DodbpU56BVESxjGhTibiXtsgcldBCvCbMmLrd_tgOBYA",
+        "width": 3120
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115343107139489965824\">peres Bossoken</a>"
+        ],
+        "photo_reference": "CmRaAAAAFy9jNMZ16CR6Z5abC-9Kwj3fAFx1FnVbxQdjrHfTmh8d3PiLYutNn6mrkD19nHtASwb6BcE_ds8PChU6kj_SGpFYBZ5XOxKuxb9fKrsstuJn-vPLA4PYMgOaLQQd_-dCEhDPy0FCNPm3oWdHvCTwqkW4GhQmlbdTtURTRZzQs5zKviQ8AD-SaA",
+        "width": 1920
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104857608272791559061\">King Joseph</a>"
+        ],
+        "photo_reference": "CmRaAAAAQ35kilpa34YWPNUq16WUF0d2eegTdMn3NWGv_ybIIkObQffp8wjpb2HfP8EY8rzA60gWJ-fAL5yRIMHZrSQjJ9tU7wS4BuqCKGB6W1jN796_dYH6TzhCBkqozAkoC1ZDEhAXR68vc5dj3Yqtue5HtGlNGhRQQi7q1lUzUaRsEttNVuicqMSDtA",
+        "width": 1280
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117754139613854279649\">Tosin Williams</a>"
+        ],
+        "photo_reference": "CmRaAAAAPTmdRspuSMCkb-vzrKpGJgppRwek8oGvfIAg2Qpw40r_w3o_7MvDQpgWDhmjOvY7H3RfqA6m84kZwnKkZg8hRlwn3RbmroAdmddYRi9Z9ga_yAALh4Z9Ziy742wPN1bmEhBg10bBtxbH8p7Mu9c2GOOaGhSVVaW_vXBj6zbKDYNm4Yz1NMqMRw",
+        "width": 3120
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104778945760826278211\">Agustín Pérez Acosta</a>"
+        ],
+        "photo_reference": "CmRaAAAAfG_QwJ_i8wWXm7RqH678x3eSyi1Oox-tq2O2r9tHezuUfjbWoW0M_T8rS2ODSUl9CglaodKUt_upfdW79GmxxCaFGpuLA0GvVGleyvQI9h8RO7HcIChE5IwNOrIsF1_BEhAu_PlUteCuVIaix8LgSPrUGhQrZTMqrznlqQFSkI5AFuxvyddR3w",
+        "width": 3456
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115343107139489965824\">peres Bossoken</a>"
+        ],
+        "photo_reference": "CmRaAAAANTBeD0ZXy-n8PU5gZgJIryTRXXp5gSaekRsKpCxFb3bzG87iiwzb2jWtZ1oEVnsrc0rHcj-AfH58u2N69F4masDa1SZFvHyH8G_QDjlx8kGfvHmEc8yIl_q8y0pB6w4WEhBvp2wl_F9Sg0s4o_LLfPf6GhQkmAACfsvDR1jGpVnjgYoOILBAxg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109851542072098117761\">Yannick Frank C.WABO</a>"
+        ],
+        "photo_reference": "CmRaAAAAGf2ozA2I0NmMvHdpDWvSE42OQoM-hbXJ8Gau7CLOkUI7_eJzKI4S9THqrJSXdlhAJwPFXhLDjtEtM0Bnf4nkeTZlU5D-5RwYlNc6qvPzhsNGjHC0US3aYcoIS3gyOXo-EhD1ckSmUY7YKL6XypqZ4F7DGhSchLxARzlaYhlJnqrgN5TWgDPvaw",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117214912746638390705\">Bernalds Motanbou</a>"
+        ],
+        "photo_reference": "CmRaAAAA4xYfyUJVvrLiyZ64arpa2lCR_8Y1ctHTfN2F8cJDulwfZdWkrzxZbeJ15ybdjJOctwA18joJG17omf44fPEV9ld5elP5l0Xe99U14BNono7gx-q6bC0f9h8ew54Z5TlZEhCs3CDZl1f2bMjXPCYzqVQwGhQsQHg14LLkEOlc_bVyEXyMtGOkPA",
+        "width": 1536
+      }
+    ]
+  },
+  {
+    "id": "72e227dc124142a073ac0c424e1a8a4d45b5e572",
+    "name": "La Falaise Hotel",
+    "latlng": "3.87024, 11.515496",
+    "phone": "+237 2 22 22 06 16",
+    "place_id": "ChIJMekCTXjPixARrXO8UMwTZW4",
+    "rating": 4,
+    "url": "https://maps.google.com/?cid=7954786085068633005",
+    "website": "http://hotellafalaiseyaounde.com-cameroon.com/",
+    "address": "Ave Merechal Foch, Yaounde, Cameroon",
+    "photos": [
+      {
+        "height": 1836,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101023310975040544013\">ADA MBITA Ariel Nathan</a>"
+        ],
+        "photo_reference": "CmRaAAAA2mMYFOS9mVtKyQwjdFIIERjn9g78aPkiaY3P4K1SNxWLbn6CbI4WLrsG2li7OVXmc_uqk3z8-BkiNNcW5J3RzM0QgH8prOVWRpNXJvczxtTVb9Df1DPftj4kInZ0Jrj_EhBS7I8CE9HKesjwYnfgch7qGhTEdR26HsJM6S3n5-XoyaUeXqrAdQ",
+        "width": 3264
+      },
+      {
+        "height": 2160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104164897133417405556\">Alejandra Burchard</a>"
+        ],
+        "photo_reference": "CmRaAAAAaGs9xLdf9_7lWFpxzTF6fwkYTfavY-ulzMsHx2EN37WovUHcmKudd86MmogYq-cAiwkpnojNMMgTj0THfLNsxUD4VCdES0XwQFbQ3AZmFK5MPw3TbpqPjATEMxeZxGahEhA2N99alMbWyEKt42PM8UbNGhRSUvkNjYRHME6DNaO42uZ-HaS7TA",
+        "width": 3840
+      },
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106916976438970710643\">Florent Guillemaud</a>"
+        ],
+        "photo_reference": "CmRaAAAA1R5wu5mGyun93Hp0GS7spfV3F3opDyrDvLKij5LLJQW2_T13IcDnPZQQK6A05nkrtTP1i9_7ZI9nvZT838Q6EaeOgUvT4mg20if2F96R9tNplwqpHEfMUs92UUEyuiE6EhBZwUOmgLpq0WBklwyJOMSVGhT302aXCGQjJD5lREzwCwqL3JJaOQ",
+        "width": 4608
+      },
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110851722348073916932\">Raoul Sinko</a>"
+        ],
+        "photo_reference": "CmRaAAAA1IeaAVPT99B4W9tX4QDLVLCl-b6KdSppNoyUVjWar7H3NZmx7rI9kcURO6fPTB3lUStS0Mx0-wUmu4DCqdfIo5I9U-yanxjLWjRTPONnthaFGcaImH7sXCPla6aeFgYsEhBSc6DfKnLBByPJZ0coSYJ8GhRobmTcxfdYyLuekLEl1SxsFhtlNQ",
+        "width": 2322
+      },
+      {
+        "height": 3096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101603140218757572533\">Soule Marafa</a>"
+        ],
+        "photo_reference": "CmRaAAAAwmW6Dtvyj1brWAFv185vOtto0LcgdVnRDzzDCBuIsm-eIHxp0rdjZ9aA6dCNmq-lIJV7HXjTYUzEqV6aaDlt4tuhjb0ve2zuEOIMBk0u4rhmfLmCvMKKgozjFvnqsWSJEhB0YfTx1jD34FTPXq1uecxRGhRZ_cGEp5DV6GAY38y0mwqp2HB1QA",
+        "width": 4128
+      },
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112806467545390449423\">Rodrigue Biassi</a>"
+        ],
+        "photo_reference": "CmRaAAAAPEyT-3WveLph8UEPJY6BFDUbWN8E1oi9xvRBvK4Wetjiic1VHs4cAsiUmnfG34sZcHNvMY2l-RzHrR_XVI4MPSjXGMEstmkAdQi5IXqQ9f8VYoDCQG24TJTS8xVrjx1-EhDwTrEiBQpvnNVKF8UpTRCAGhQjliJH3dXOvunJbgZDo_1myo3pNA",
+        "width": 5312
+      },
+      {
+        "height": 400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117339224039589091438\">briginel gael</a>"
+        ],
+        "photo_reference": "CmRaAAAAfwRx04rv6YWcvpXGzvJzbETJW0MsByFnQiX6HSSeqYNNx-94_RO8uQhRvGHCyX5TNv8mkapqSlCokS8QUaAB5iIWSj1gWWoR97Y9gZIZulqFh0YDvrZ5gzSjatsOL30mEhDYwc76oPQ0V06N710nc_BTGhQkUxw2tW3TDFFd0fhkTCG5BCAFWQ",
+        "width": 712
+      },
+      {
+        "height": 3096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111379975019663858517\">Afsar Jamil</a>"
+        ],
+        "photo_reference": "CmRaAAAAtqnu83DVFd0KyKtq2-2uFUrbVbW-OAuwMT8eqcRTH43a-70jLzAuxjmf93Kf2hg1ITYpHS032otbdFkDPcl7bv0XQUejVXXhFcAWQF0-W2kMGI-eSCFeK9TfMH7gwN7jEhBy-CFXtl-muhXW4RsubnOjGhQzHOxyVT9-2UOoTbM6Q_SnTXq4Nw",
+        "width": 4128
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105856686959748820771\">Monique Jordaan</a>"
+        ],
+        "photo_reference": "CmRaAAAAvzpUNDBZU954_WGWAxrNeRrQz5DLZiPCsAnM4FZHhE3KD0FNsA3G2pDMSllPXFmYG9PvK2_gU3QABALOOi49Odulm9TUIotRjc5Yjax7KXliqbldRlJvT_pr-GcZiJBXEhB3q1SdVv6yMN0-YgWl4aYeGhTPtXRX-8LaXTzBT-lEyv2BJEcWvQ",
+        "width": 5333
+      },
+      {
+        "height": 2136,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101151931225978101832\">TAMBA Edouard</a>"
+        ],
+        "photo_reference": "CmRaAAAAMQiAsANc3WfVqbfBBX0Ccd-iUQiSdRyQfanBkW-YtABeNpRsU6iRT-CUW5pnnVtqIBjtEdeEYATI3tmZCh0J7tmTN8ptex0fkk9VoJWK_wr5oHCSqQbM3sfR-ZPWclr7EhBW2FXUrW_P1kp1GN6NvrtLGhTlcysehiEj2VYfTIWsyT6DZeeFlA",
+        "width": 3216
+      }
+    ]
+  },
+  {
+    "id": "12bc068b24dd26135996edcd8970013af73d1322",
+    "name": "YaaHot Hôtel, Yaoundé",
+    "latlng": "3.8803536, 11.5175752",
+    "phone": "",
+    "place_id": "ChIJ3ciQX2TPixARGzIRMJe-nf0",
+    "rating": 3.5,
+    "url": "https://maps.google.com/?cid=18274972419495113243",
+    "website": "",
+    "address": "Rue Djoungolo, Yaounde, Cameroon",
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116389029275036943606\">Thierry Ebode</a>"
+        ],
+        "photo_reference": "CmRaAAAApi223SvUiHU9xulCwbjrEiS3_Bn9EWnWpDPJ_Sc3E-jpj5CknzN0NIfi0YHsLmRP9CAVVsf0gN_6GV0S0u_d7mpzIRKezHY97WkSZbftDXSck_b_Ar2m4OgsTv2jIZYEEhB2maXIqptzWw1DkJKYXsrfGhSTZPVaMwzVXBeQEFS6lS-3z-bVvA",
+        "width": 1600
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113602051569967365799\">George Kithome</a>"
+        ],
+        "photo_reference": "CmRaAAAAVey7J5tVO244Zd5cpib9kytFjC6LcmOtxL39gvq-C0D3AFVkTQrmX-NaLz7xwfsuMbf8cB9SQQ5rvMlgJkcJzkct0C596b5cn8myM6-agcvcq_qebDqmhWOzg7D5-vgnEhAXJ2fmzYnCU7IYaSQZ6LnwGhRkjwppyP02W2_fK76Ryzf_Vw4BvA",
+        "width": 3120
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113602051569967365799\">George Kithome</a>"
+        ],
+        "photo_reference": "CmRaAAAAFu9XnDsRc1fdk0vobLdTJDbnrXBDEkOP8jnGTNoZNdM2StG7---6cYJ6f8ctndItRjpck8h60C1rlYJclAA4Jq9lGiiEmEJFVPqSASkUzaIGb17N1aTgspFufnGtZAaTEhANKV6a3h15MD68JyOcQHF-GhTw4wpuTxY-IINh66MdP-hIPd_XeA",
+        "width": 3120
+      },
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116389029275036943606\">Thierry Ebode</a>"
+        ],
+        "photo_reference": "CmRaAAAA4xu7x5e6ElWifTjnDZHwocV7Wqr2rKp4Wo2CkQ2JOebmz_UNYaoktI0M-q_3r0p9xNlQ1ad71JudIk3AoGJCnQUjwnDNOW2QrqOIF5QbU_glIXfAfdcGuwEO2I8XaFWHEhC-XVg55IJSGL-8zKv-4EqZGhRdQ2pSCt3jKw0qrcslrUPDf4UyKg",
+        "width": 1600
+      },
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102584120496973532081\">Issofa Limi</a>"
+        ],
+        "photo_reference": "CmRaAAAACJCW9kvFEWDhO2hzPMf0RSfHuk6POPYmqbjtys2SFzaQF4hYfFoVuczVGVFV0kBMAxVzSLUxKqv3aUiSQchJF2SI7IXMmdaJC-kBBezxjyIiXjAeInol-jHHgS7_GbmtEhCdYQfdQxdxQMAmn7VWi-_VGhQ6gdSwbqOhsaFnhg2SgaADfWu1UA",
+        "width": 4864
+      },
+      {
+        "height": 3136,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110244910080616919594\">David S. MBANDJOK</a>"
+        ],
+        "photo_reference": "CmRaAAAAjIKSPZv1rHv-I5dPfm_fauuG93jolIw4tizeA8ShRdA9A0dyujN2vslBCN3KZn3IDkl6AKC6dl2JFAJ9ste7WwXxDwzFnUZXVMLU6eMqr4IWBdA5PFgYtGisMy2fyA15EhDHqZmdwe7JEjMp1jZCw_etGhTSDjZi-_oJOiFB88pdkf88mI0PuQ",
+        "width": 3120
+      },
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102584120496973532081\">Issofa Limi</a>"
+        ],
+        "photo_reference": "CmRaAAAAj0UdzFKry5S4nOvug8raiKSAt1t02brLV9ZUfcPW7IP6WYs3JQgjVA7BwxyI8z5qhGh09ofqZTFL-jO4aue31qCRzRZnDyHcD6soh5NKdaED0BbmdXsqrpXQM3jHk9SVEhB_mOAzLu9Ag7u-Bch6cjLqGhSvJX1qUL3nfuAbRB6MUf_AAvOJCQ",
+        "width": 4864
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113602051569967365799\">George Kithome</a>"
+        ],
+        "photo_reference": "CmRaAAAAqeUyqnmzcVR8aaeAJFE6NcIN3agC5GzXCF-db1R7QICWIUhWUuj6c0VW8IdEGsfMiNa05tBIBbmJ7aKJW9Fn9lZCCfYiX-KnRzJocPdmZkzRdqJgdOBMPsL3a4TvY8zQEhC8jO523UiWtZukBiWxL_C8GhRx05FxIM684TycRgUTw0xLmzweIQ",
+        "width": 3120
+      },
+      {
+        "height": 3096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114467492731549433840\">Paul Klugan</a>"
+        ],
+        "photo_reference": "CmRaAAAAUyACXBSgB7gUSnldoTUo_4SQCZn7vwewPNey644YjhVC3WMIjfcL5ZcMJGGE4vv3lpGkWyik3Hmfl4TPQXIKGpEXtnnxvVGOYzCMHp48_stEfvs_aClVEcqBU8S-bncAEhAFdzh50w9eEuyezIV4fR24GhRcvECPCJPq2Sl6C8hUHKlI84NhgQ",
+        "width": 4128
+      },
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114467492731549433840\">Paul Klugan</a>"
+        ],
+        "photo_reference": "CmRaAAAAsMek5UP9kwqyIAU7p0bUhXJ1RYfX-Bcs9PknDs9wxDlvCB-zfiZqWOjGwDxZDCgXMzEzopHjSFN5blsUe7GnDwIeN6c9M3vsMLxL566kCIhfpUF0fVfgvrt7zkpe0Ea0EhABIvny9ZNArSja-o_RK594GhRatnHUIXfiCAUSAFLDHHXGe0oCAA",
+        "width": 3096
+      }
+    ]
+  },
+  {
+    "id": "961cc96983ed5012a3ccbca12dd8c6d04d10b252",
+    "name": "HOTEL MANSEL",
+    "latlng": "3.8824202, 11.5344931",
+    "phone": "+237 6 77 93 61 41",
+    "place_id": "ChIJuT0Epo_FixARG7CRWa0NTw4",
+    "rating": 3.5,
+    "url": "https://maps.google.com/?cid=1031057877874356251",
+    "website": "https://www.hotelmansel.com/",
+    "address": "Yaounde, Cameroon",
+    "photos": [
+      {
+        "height": 2016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110452539956730192844\">CCE CAM</a>"
+        ],
+        "photo_reference": "CmRaAAAA09f9kFb1K1sO5olYuhtviGq62vudM0pEj4woNpPf9eUnBAcD1Mu6ggVjHwr7MDN5HNDau9nHAca8r7NuUYDDZRb-q3gAXVP8sCet_IkxBlc00sRfBTPp2QltnAJPvBVeEhA5KBSFKGtWDksEosp9kqZGGhTPUz0nAuxbRrdzcDVBZD76IlhigQ",
+        "width": 3584
+      },
+      {
+        "height": 2322,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110851722348073916932\">Raoul Sinko</a>"
+        ],
+        "photo_reference": "CmRaAAAAYvqf6GNRNGzcl90Au4RBaOhfkjeaT5Ipk384ZJ44_hsCVsAmQVSAvT5xnS_M3yKe6OF9L5RJiemsyUUYS3jj-h8vPnIIUWTkfIteMXCB0G_4KNNLYWJcaXDc4rHEPfzeEhDnOpRmbt9pByjLKQwY2O58GhRRSwDiw2k7tgNTFh3BrnulrVj-mg",
+        "width": 4128
+      },
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110851722348073916932\">Raoul Sinko</a>"
+        ],
+        "photo_reference": "CmRaAAAAwHq3MPJggc7dGlQC4zd_GUymtkEc4gIx3pDdu-ExqfqNfg5spiz4YYqJsf89-oTHnohESbgu8jtjBYmlegEa7jtnCdafvOTBL4Sjh_KeAAsfhab98EBSNfz-FO50DmEuEhBl4ArXkcS-te_K5Lm43eJwGhQRanNdb7iuTV53hcE1uug0mvG-aA",
+        "width": 2322
+      },
+      {
+        "height": 2320,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112593635425271437800\">Abraham Nana</a>"
+        ],
+        "photo_reference": "CmRaAAAAZk8DivXphxdmq3PcFE0ROGM0QEAy68U27JJ2Ju_PjEnopoz8yrZ9ktB__1KsY3SOy8Top5Nuzdaitj49obzBhwDTgXXHlDtGm3kXm3X8rURWrwvsdpl2qkG2n7R8godYEhDgpwM8Su5ORUQqIxKc_hBzGhTHIJNvWg9mCcKbU2Ls7du8KZ2xHA",
+        "width": 1392
+      },
+      {
+        "height": 683,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107509540689488837496\">majid oichta</a>"
+        ],
+        "photo_reference": "CmRaAAAAGGKguCu25NWANk0Q2WbRUUQqMCPdTLaFWGb4b-BDsS24AJL4iG2jSO9bmK0TseoP_m1kd9PzDj5Dcosys1i3djkJ4jpAkhX5YhUaKE0CIpqXxodeAqipVIXhnoINgqGbEhBMxAqtsvYRFL8RLavE_0pVGhTFC58O43Bi1hDtPOlwJsOoGEP7qg",
+        "width": 1024
+      },
+      {
+        "height": 2752,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112108840268316822064\">Paulin Messi</a>"
+        ],
+        "photo_reference": "CmRaAAAAPX5CesuH76ha1IkQ9lZ-OtA2RlyxOl_O2cCRJcNKH_5zXL3l88So5hqXlyV0ucwTPUv3qXat_MsYXNFsFP06hx2ecsgDfV8lUYRIxnwmjNFPArr2m4wyEnwAbzOf5ux3EhDJwD6SK84AaKPjBcpzkqP8GhSwBG5lSkBkZ65FGu3wVyTzy9mIsQ",
+        "width": 4128
+      },
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105256102008941771666\">Fredrick Barasa</a>"
+        ],
+        "photo_reference": "CmRaAAAABROh0xlhFKdfmCgDRPepqXNaKkepUEP-vztCxTr7TW4TdyuAiuDyv12hl35daL5ggz9xE6eVztNfKrjgA8NGH__Gry1xEpa4rmDtY_qYM-65tUBnfKgy4u_cJObsx5F2EhA0IdrNFIZhVoBbi-dkBQK2GhTDwwrfQgCaodFwyKsHolngReSeqA",
+        "width": 2560
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117878296368930276751\">Bertin Engoudou</a>"
+        ],
+        "photo_reference": "CmRaAAAAxGVjzKbB579SFv_a6VLFfPo-9g18sbO9XcXreRcl_c4n8EPJ86gKqleGSja8AY6VnprHBKqL9FhHCEYeQL_KI6UOszqKgNJifyfrId8YUS38kvFChOf06I6Gk32MPeRLEhBkvpe5wK2Itp0Q4OdqdLbKGhR7AYS1K5il5Sd2l6q9AYLgDn9ekQ",
+        "width": 1920
+      },
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105256102008941771666\">Fredrick Barasa</a>"
+        ],
+        "photo_reference": "CmRaAAAAya4kVWTbUuqeAcNdeVkVbviojFd6bGqk4aPvCkG52cb91aFs8Bi73cDIAWqoMFw-37k_BDUiuII4N0zQ3Iw4oM-ya8kjQODO7vOEPE4Toy7bKTT5O2XIpz6uPkkuo4r4EhCpOQBTvK6GMshrB7kVDbcQGhQIeLbvKB54_B9hhaG6Ru5bqN8INA",
+        "width": 2560
+      },
+      {
+        "height": 3096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109035492012498704528\">Kevin Butler</a>"
+        ],
+        "photo_reference": "CmRaAAAAsZUrXCbLHMkvkZSjdg9E8nuCiMGPGENzB_HoV7WmiWq0FkO9SrvewN20Eeimv1wG7UqKE20TmUCwvI_i2ASc12HTAm5tFbedNWzx0kxj1Ss7b0F77hvynQLFJa9aeRs9EhCHZmMJgeUyPnEiQW8ZECLQGhTxPRndRF3MzYWBqcZUbt6jYJ8hNw",
+        "width": 4128
+      }
+    ]
+  },
+  {
+    "id": "8f874b1257eff4d810cb88643d54c0d29915b37a",
+    "name": "Hotel Le Diplomate",
+    "latlng": "3.895861, 11.506836",
+    "phone": "+237 6 95 55 16 62",
+    "place_id": "ChIJWYNnZEbPixARsjIm2ceo0v0",
+    "rating": 3.1,
+    "url": "https://maps.google.com/?cid=18289866613000123058",
+    "website": "",
+    "address": "En face Ecole publique Bastos / Institut Goethe, Yaoundé 4764, Cameroon",
+    "photos": [
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102584120496973532081\">Issofa Limi</a>"
+        ],
+        "photo_reference": "CmRaAAAA1KSSKmImCq6Lu4dxPdH8K8TMT_af-efP35AK083TARFRZNn8M6vzXyTYWOEYAuGzzcWkyerDMD0KEB7cfXHwiNxRJRYYS0GsFvPyuTrFffen33yzNVzF2h2DqXPbc6cbEhBuZGojxaDmI2Ay4c-mh7ZqGhQCdUu4USplM4c0XRt5HYCNAXo1Jg",
+        "width": 4864
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117327266564335543919\">Etienne TOUTOU</a>"
+        ],
+        "photo_reference": "CmRaAAAAaJGK9cOPKuXoK0MGz1R6_EPm5ZvbmyPsE0gTn1oeNETfVH7Dc3pq0ZT4tBDiFQqGU2XLEh8NnlymX_0tgeCvT_rJ1vxfYGfpbEqJNVGeliQ7YFHKWR_pYx5TixzSO4SEEhB7vXyjb36A_W3y25Wd32FDGhTO3Q5I9YyMTf7eiLjyJaRYVLrATw",
+        "width": 3456
+      },
+      {
+        "height": 4048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115798207529768494717\">Acho Arnold</a>"
+        ],
+        "photo_reference": "CmRaAAAAsa96MfQ7TGqGOHVVlRGXoMPPwaPop787Z4ogOET9MtE4SscR1kcD-zhYd_cPp8Xyr25uPKr5geagYFljPCaJoEtEN_jfdydACQwiOurvuwfEf_q7ZFvck7urJEobHmxWEhDx5yPKzHhNNaxMspODbZhVGhQvXt6EL8n8kaChS-uG2_mUq9QfvQ",
+        "width": 3036
+      },
+      {
+        "height": 3762,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101436937627992609049\">obenebangha Mbi</a>"
+        ],
+        "photo_reference": "CmRaAAAAx-Dg4kaJgfPbrENLC9xHNeYQSzwSB_2LSNLo9cyOI5MY7Kt7lgW8VKoty4uk7TCa53z0wTgCBW9oyei96vLpazoJVjYydwGmNAs9nciKNhmHhk3G4kg6Gwa9aOj40lIoEhADAeszOf5OoeUZ5L4jbtzNGhQsJ7NuKmjCAMdADbtLE0GZg6fpkQ",
+        "width": 3000
+      },
+      {
+        "height": 918,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101436937627992609049\">obenebangha Mbi</a>"
+        ],
+        "photo_reference": "CmRaAAAAezwH3d37Lq4NwjHy-w_hh1klOmgh6l2wXFwNEXvqSChnO9B9xGAROAqfxU9xhS7p07_LaAvi_eD2P39uV-LWekBl6XU-DwGEqOI_dQgRC-3oRtamYqb7PHVP0aeWdKQhEhCGgdgd4CJ-QlPZHKML5MafGhRyWLTJ_CFOV1nLnyvphk-o98irag",
+        "width": 1489
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103151308992539211038\">Phllix</a>"
+        ],
+        "photo_reference": "CmRaAAAANDZJHASkUUgZZLPcg026o9B-9P0GaWhW8ZuMJKDsCwUvtaFJD2xk7c0JXhPZ3TfGtW5dmtozI4qpLQyq1SFfX_2bZQCpLd7r6zqKLx9IY4R9vAJ72zX_Y4PXSneUABrqEhBpNENsEFsUSqkGJs3jK2EkGhQrWkM-MppDkPBOCZm3IysTwPs2bQ",
+        "width": 3120
+      },
+      {
+        "height": 1728,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101603140218757572533\">Soule Marafa</a>"
+        ],
+        "photo_reference": "CmRaAAAAk0Tr6mHDfGm4PS_fXunAS7R_Py639VYPcM3neCcFs7g0JKXkLzpnQLcRQk3Kz97yRhuyefH8WTVIF7a3ZcF7Gha4_hkQTHqrSshyZhHaQqJ4vdpQd957nE4l5MtrIacAEhARcTzW8gWjaZE2omUzXy2WGhRyPYUGUz31gfe0JsBEG8k6WX4pBQ",
+        "width": 3072
+      },
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111765891761846045373\">Çağdaş AKALINLI</a>"
+        ],
+        "photo_reference": "CmRaAAAAzEQivpGZcGNmvkmHGYpdIfj6qmDZLA1Ss5xPftZZQuPnvubaKsbuc9a55jj2MnPnxF3jqUbCH2d7_J9hYtUkOSoOwlP23r5EyN8Im0mjJaOwmBl_NMqXaOR73IlLcwVQEhASk9RHrrEJiDXASVhGtHuEGhTXKVeNxQMt7oktDbmRUDpL4-MYgw",
+        "width": 2160
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101603140218757572533\">Soule Marafa</a>"
+        ],
+        "photo_reference": "CmRaAAAATWtJNb3cFiHTpz5lEuew-mOvz9gdkTXan6Jza1v1w7Zh5OHQBRe9aLZTWDP5JA2gwFq7-8X3exHUGNBGvEYHtzlAenCvOnMUtwth3eNBOGA1n6S3eNn8xNqjP2snmfjrEhAOEh1SrBTxw4incMRmZ40FGhS4SlKCwe4SHxkD8-hFU-G45rgMhQ",
+        "width": 1728
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101436937627992609049\">obenebangha Mbi</a>"
+        ],
+        "photo_reference": "CmRaAAAAJ-elk6zTlxQSJc7Z-pYsQEep2hwQRHQWYRJqbKrEVfrhKlbhULkn7XxO8Xs4VQESE7i1iE1RZ2MrjsggeUqryKto0rmv9Z5LZPfGV8UiNdj-7mer-eW6YLpqJNtio8fPEhAJpHaaug3ZeXQxgidoNn97GhQe-_x-1PX1kVuttfUqrsLjTHufmQ",
+        "width": 4512
+      }
+    ]
+  },
+  {
+    "id": "2af72f7df56296dfd6863552adbb20d835b1f616",
+    "name": "Congress Hotel",
+    "latlng": "3.8957988, 11.4969956",
+    "phone": "+237 2 42 18 00 50",
+    "place_id": "ChIJMWdHYRTPixARNGkoe1nhc1M",
+    "rating": 3.8,
+    "url": "https://maps.google.com/?cid=6013397701904329012",
+    "website": "http://www.congresshotelyaounde.com/",
+    "address": "Carrefour Golf à 500 Mètres Du Palais Des Congres, Yaounde, Cameroon",
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116042054761478877857\">Ongla Diane pascaline</a>"
+        ],
+        "photo_reference": "CmRaAAAA3ArQt8EjybDZpc-v_PHfo4wpHvlAmQMLNfpdYwPJ38s3XnUMXazhj1_CM3HDOmijXXKnQJyPbr9jS5emNLXYWlH3G4efwSZoGCcsEQxUsV1yuLmRIAKCs-gACt8vINCkEhDtHmqrFrHBRtuF9CiDZ2CeGhRH7uO1Vc3Rrx5zVlnM4Czni6pQvQ",
+        "width": 2340
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104857608272791559061\">King Joseph</a>"
+        ],
+        "photo_reference": "CmRaAAAAN1l3KdDnObIAf_GjqV0hEcyiOjnwyR8TZUK8SANakWJFMwm0BlDIdmxjPZoH9hN6RmUaqVNd4x2JLwNfY1ZfDGj68JRp4q81vK9cHxjE881ZZK_rRSB1W_fQNEbVj__aEhBvAJG7o9wSSwsco_atIJc6GhT-86zCJdPMI1IECw9YamctkmugAQ",
+        "width": 5333
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106171904089151129942\">MBIRA-NZE SENA Hilda</a>"
+        ],
+        "photo_reference": "CmRaAAAAqjinEPr3QufKun4XEJWA6aZnqiZ7xStgqcJyUXIaYaE5D-TQZ-dt9wDD4x81cKpSdHTI6AC07OVroG669m-ylEuC5VJ7Pk49BIYJpjgdrq7qNJIKbbmMRsaPdK5rQHh5EhAmVovQ6aG-VGJp1wvX9evZGhQSjf5qQFkT09qpGVzXVfEg7vZJ-g",
+        "width": 666
+      },
+      {
+        "height": 1632,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116004050965289769850\">thierry mbembala atangana</a>"
+        ],
+        "photo_reference": "CmRaAAAAkqytOdGrQIR2CL0hJr-EKVtDXKwTapkSU7tVCauVPcaO1N3EXNv8g3b4V9IJ9Rq43XU82RL7uEHYzAQyXGdk8e4MwtZy13daob_ZDX5o84gjJzgLSSwUUPC8ProfuICjEhD6dzrdSy6fSaPkc1RfaPqhGhQ8U_JzXwmnn6gd9F9UwfmpkRthfA",
+        "width": 1088
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103931696645927596689\">Ariane Tankeu</a>"
+        ],
+        "photo_reference": "CmRaAAAAXrfAfWN-rvb-ylZhQ0XSQFcDIDxELOZ-SAOAs0OLc74yJHeOtjRiEiSO5wsNXMnPoAXmn5LGG08yKl6gR1JlJXnqerHTxX1Jasam6oaf8wE3__ej0nAq3ErNkLKEUjfrEhCbgbGyW2jce4qXymn3SsSEGhROHYzkAuKsfJ68fGbwFkFIxfNCqQ",
+        "width": 4160
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116042054761478877857\">Ongla Diane pascaline</a>"
+        ],
+        "photo_reference": "CmRaAAAAppFPzDbcjN0lxIvweQd9l-oOew6jRBZDoR_0IVk9MMmYpsb22LvInuYK-eHD7IxkM-G0S5sTLj9ZL1EkPyKLjsNEW1oHUocbSAWbM7Dhpiq6SGOjPofWqHx8271uSoGXEhCMsxA1W-i_UgbrLg-tCOfgGhTeB27GhQ78AVehBYqvpsIHp7pz9w",
+        "width": 2340
+      },
+      {
+        "height": 4864,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101541974580233442284\">Theodore Rodrigue Ndougou mba atangana</a>"
+        ],
+        "photo_reference": "CmRaAAAANCTf0haJcTH1OqoXz1andPTM8XW6aDDeWHSGbdZvZRw-eo4kzfvzv0vskrz21dx7XZv7N9dHejBwOPoBNt4Vgithj1cum8G_HE9Rei9FaEhMFy0njJ12k4rJFCDAG0euEhB9BIxrpEZCdOYWHPaj4MaJGhTYRcsSUsh-dhQVGcoek6WBWkbi9g",
+        "width": 2736
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115581182050299463088\">Armand Fonkam</a>"
+        ],
+        "photo_reference": "CmRaAAAAuyq9U2Bya_SEmzLtdN7I8Of4098i5MXE3anUqehogJtTH78uxk57pOwNyXgy2CU3654vrdXpXHYo-OzfVwGpgXh-7atg5XVlzChHkE4ZnbzM7XGkxVW5bUrYRl93O0TREhDbPfmrAsBNMFGq1qYlKDBgGhRLgfvUdAc6j-XIPkII2eX5Ra513w",
+        "width": 3120
+      },
+      {
+        "height": 480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104997939394093271343\">CAMEROON DMC</a>"
+        ],
+        "photo_reference": "CmRaAAAA444nr0vmPMiexy6MdmONt5erSct2GCoUCegZXOmGvlqbsPWQRsnXfCZYFT7hCtcl2a0syyykYyRyW-cx-FNyG8XSuWDPPjL5JgNz90co5jfazdAANGAeTJ-F_FdfGbtbEhCCQCvfTdhmpaDwVBthPHl-GhSgcwuQ9i5bFlfwajWLp2pxTgw-Tg",
+        "width": 640
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114027195655757661466\">Daniel Abou&#39;ou</a>"
+        ],
+        "photo_reference": "CmRaAAAASbxyS5P8T7Gzxxv8SYJ6fiQmeIvqEyiqbP37FNuFGh82cqVVLr11Sz830hUl7ULrmlN-CeD2RcInV4IRPPgJlS3qMrFo4AqANzY0KMjDaH7e7jYy1nMCY9CW9G5IwU0QEhAnpzX_j77Qq15pxSDa-704GhTXmoM53g7vXfvvrka4uHB7BJHQ_Q",
+        "width": 3264
+      }
+    ]
+  },
+  {
+    "id": "5434b03886f5a502f22b0898034bc0bc8cefd6c9",
+    "name": "Hotel Mérina",
+    "latlng": "3.8642531, 11.5193055",
+    "phone": "+237 2 22 22 21 31",
+    "place_id": "ChIJS4Zg4YbPixARiKemJwqTPzQ",
+    "rating": 3.4,
+    "url": "https://maps.google.com/?cid=3764889485329213320",
+    "website": "http://www.merina.cm/",
+    "address": "Avenue El Ahmadou Ahidjo, Yaoundé I, 14304, Yaounde, Cameroon",
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112329387588858516619\">Yvan FOTSO</a>"
+        ],
+        "photo_reference": "CmRaAAAAcPdSVnbmV72C8rLe9iX1IDPhYKjRwNrSd_esod2Z20SKZzyMwliuMgLCVcXASjrRdM8u3k12N-7id0ofYiqQPzWJFle7Sue97sPh98o6bP8oZ2TXZkKxUtBjDb21cbEbEhBo4IHeHuA-UHAOP0RgYilcGhS0bDgv-QJ5wAq3hilNM1u8blLlgg",
+        "width": 4608
+      },
+      {
+        "height": 1152,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113187490593653844372\">Pat O</a>"
+        ],
+        "photo_reference": "CmRaAAAAM_4Ux6b4gAtNF97gAnfxNb9bMpCj3myv3-oTa6BX7tFFyIoxhDaIITDKPQdwstyVYbkBzslkw_IMYfWWtNxQhki531T8_dV1zaccj4cy_-AjCB7hbPg6trUff5TDZKePEhCn0DCmMkiz50CRI0fcjHfBGhTdJ6-bOxykO4pVVQZgMac1Uh1acg",
+        "width": 2048
+      },
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112787086903340157316\">Mapessi Abessolo Junior le Beau</a>"
+        ],
+        "photo_reference": "CmRaAAAAvZSbXrM4Z947t5GIgDL_oa1qT2kl8wjXma6RujkUEqboV92Bs0YS9CyRZ6rDUcLy6BYPXKwdydgJHCADwkGaVWOg_ObRj8BIU2TozXCYUfuH5lwPCDqejl8LiThbeC8SEhAt6f2J5f23xiFAdiZ0aDeeGhR8kMyrX7jLlxK_JIMP9-Tx5ccJ5Q",
+        "width": 3648
+      },
+      {
+        "height": 5328,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110851722348073916932\">Raoul Sinko</a>"
+        ],
+        "photo_reference": "CmRaAAAA9iXruv1WnB2LKK9C0oAI_1BjmtL6rfOB53VCZNZKo3j7alG3vQYCvvebokvJM-cZXO0ItotWAIk8ehdbZSWnoDKyRyRO4blSvi2_W74ZrQgBK6bj0awrrJypZO3umq34EhA8qYKTNHlg9cT0sDMQdlU5GhS8Qztj0vKQ3rKIgV_0py35zl7K7g",
+        "width": 2997
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115305498599370376626\">francisco</a>"
+        ],
+        "photo_reference": "CmRaAAAA1JY6US7xGfqQGj-mvoGHw64v6iXuZbXTtlhicXZttOjLGGhi0UkyVaq1FaHbMpfInQSxz4SS0zHFTet9VlRMrug6gKABYq2kDlruLgKo_BH8F3wxqjSjZtRsl3w1xg6UEhDM5k6L75YiVAii4qcK5bkDGhR4biKHDT7C4U0IATU8DH7G70vnbg",
+        "width": 4032
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117758991912080833022\">Yaw Yeboah</a>"
+        ],
+        "photo_reference": "CmRaAAAAfdKXwqv45msrnfNWeXFg3Vjm_rgmiLDVY3R4dRlDr037i87_VaOu7r43aCCHCJdsxXmkldUMRc4wJZXMt6_dvWz6linGyvZJFPjLlH1h6-kkskx0Qe_HEYuo8SDQZ74qEhCcPrwQO7UqobHlckCX-w3WGhREqDIubZQ0e_46alJsZVUC9xzO1w",
+        "width": 4160
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100492216529247628549\">Nel</a>"
+        ],
+        "photo_reference": "CmRaAAAAMwkDQno7eqiasI8Q-cu2i7S4CgVF2_vPt3r66Klwbjm3bEFE28ZO7Yhsfmd5T6E7_k4qEeQ1Wttsw5D6bAvTX6G-pOFke5Wz-CSaMOL07URY6aB0kxpjiTTtxtzqUCVrEhAUQ-Zn9gAmHCme88eTF1mdGhRbCMffcaS4ZIp-9YKhgzSWdTjNPw",
+        "width": 2268
+      },
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109743128089521791409\">Adrienne Destiny</a>"
+        ],
+        "photo_reference": "CmRaAAAAhJ1zgAat2GueTWadjy7RmsML66_eZM35wCbHw1RM-S2IPVmcHjTJqD0SATbIfHtzquh1RX_NjIGi-ncWYU-RpAbMpX2GFBxv0SP7FyBV4qkoXMl_Vt_BRLxsAffnq8O2EhDnbakeqlHWYffUtKSgFHSNGhQiLT94sMeXLxNTk-V8kHBdiH8qFw",
+        "width": 3096
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100492216529247628549\">Nel</a>"
+        ],
+        "photo_reference": "CmRaAAAAWdnibYhGC02mxh5jWL9oW6zKJyCT1KXvzQLMdZzM6_22CcESm0UzxZp1W7q9NtlvFM40ti2QcJZDMGF79m-nohRQIjdp6NbpdTX6pl1Rq5Mp7C8g6knufzkrIHbCydBxEhD1lTA6on8GsKF-IB-MZP29GhTTq3egvj4grSm69M_J4-0bO6o6rg",
+        "width": 2268
+      },
+      {
+        "height": 2560,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115431298633770948422\">Christian Eyoum</a>"
+        ],
+        "photo_reference": "CmRaAAAAYp8u6sHEldYKtXoQRra62ndQaUMyIPdFxKO5CotlhWALknAjYQiWFR2FPjx-aiFDijePuuPi-S9t2ProDsJyO3EVwNffuaylpSg03OV9Zf0XpgIzy4BT7uNo605toX7QEhDmoJqQ6i9uecVmf5BGTSe1GhQ7B4pp07AmBUllY6krVpK98WXHIw",
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "id": "fe19e89c1c9c46e58ddf53ce4c0f7133d9239332",
+    "name": "Hôtel des Députés",
+    "latlng": "3.8643001, 11.5122791",
+    "phone": "+237 6 79 52 86 36",
+    "place_id": "ChIJ61x83pzPixARI41Ay5CUMHw",
+    "rating": 3.5,
+    "url": "https://maps.google.com/?cid=8948815809191382307",
+    "website": "http://www.hoteldesdeputes.com/",
+    "address": "BP: 24, Yaoundé Centre, Yaounde, Cameroon",
+    "photos": [
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110284400502806249034\">Patrick Ngassa</a>"
+        ],
+        "photo_reference": "CmRaAAAAVGbY2bdfuwEUZxH4bkx74CQ3fwI3tNp_jacdowY8GawMweTJH4VxDesKHgZx1Uxy8NRN1iNGH-2FSOE6Hyn_6uB_4SdBKHfHvdAxHkwx3avfCcy3_KLhMJfA1b32ZmLSEhAOa7Rr7a5tSqRFmdlYHctrGhSdr-i6Na5XaYNcnVedl6urAfpUbA",
+        "width": 4000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112464957334718497388\">Catherine</a>"
+        ],
+        "photo_reference": "CmRaAAAAQA-rwJzVI0XoL_q_rl3W8v-nj8iFhTALepRlVxWAqbib25bU6WCNve4gE0vx-khPt_cngWGGwpR5tz4d4tw_2CaDR7T7EdJIYY7fVzltu5s_OWifx6rz7rkY475JPptuEhDYET-JFsRN4tG-rDcbu8v0GhTf6ni25ZlWsoswowFR-Rp_iwYZDg",
+        "width": 4032
+      },
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107922509268964362605\">Nkodo Achile</a>"
+        ],
+        "photo_reference": "CmRaAAAAsSvtjwiNbzC7zzgNLEITsSNRQbqYunYjNSnnAy_CmpL2JCAaDnRCVvg4xLPNIYyU97Il_l9fiKhpGXqb8UrGBY7l8DBWu9MWvVOiZ4qmP_2Z-0LPJ9ZNAZTov10otx8REhCcKXtVlgR14eRd8lByqq7xGhSijgkbb2q6kKdQdLZtEfWA4f5g-A",
+        "width": 4864
+      },
+      {
+        "height": 5312,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115346923467267549963\">Christophe Bobda</a>"
+        ],
+        "photo_reference": "CmRaAAAApnSRQxJAlI7HlnJfui5ob9icVEN8AKyDzQjTSkpsLRzdqMouy6dO_gRoFvkQz1v9cOsjPxm97vx0N7ziMvp5LcDShXv8ze-ZSxMeHnm5BlwtG9VPg_ZaOQSoIAaZGNh2EhCLgT8euxwO-z64tFJ6SrSpGhSIoOM5GmHtzzTQpyjw2PuTGy2J_Q",
+        "width": 2988
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101047946482568413336\">Hôtel des Députés</a>"
+        ],
+        "photo_reference": "CmRaAAAAedGcJYOLdjrWqJ0S2I7OM-b1k8aKv2o4eZs3A2D0iY5Si8i7eSHxbI8wyCi7YgJ5SGJiDpb_OGghSlqOXZ1dRxns5Ke-2Sl6vO8wuEa7u4yW6Q3d5i3AMLseSpQ8tfPWEhBKjdZptN3_SAXhZ0mEHewUGhRy4rbkHXuq65Oz5I8WSGeVe1czWg",
+        "width": 1280
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117719309930735139450\">McCloud Droner</a>"
+        ],
+        "photo_reference": "CmRaAAAAP_TMPT9UXOjXtXt2hHjN9z9g0g8SpooN5EqLSOWQHQzd9E4f7SlPP2Nn28u6HrYVs2IVIyhJroGREv3UOXElLYbTPzKcEN0xNghZbtVYWjZ1VsU-_XY7RSC_wmCE9IoUEhCaRnofArSvwWulZCofvUdhGhTVkXQHw-BjpsIykoYiRucBUtB1MQ",
+        "width": 4160
+      },
+      {
+        "height": 450,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106400049952027074645\">D&#39;acquin Petnga</a>"
+        ],
+        "photo_reference": "CmRaAAAAbjUbCZymaUyHXXnbg5vcm04hcOYkl3amsGt3cShoWe-8EnYIiZd3K1T0FYRRtrmMszM3MSU8cgTAXvoptaNK3FfBSPHEfFMsnN5dEXfNjHwNm_moiOcnccsn9CJGMMFcEhCwxS_4ZqHkvgO79EmA9waRGhSSar9zesu5dpdsRaaAFIIf-I32HA",
+        "width": 815
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115688978186116997544\">lionel bologo</a>"
+        ],
+        "photo_reference": "CmRaAAAAP2Y2To7xpeF6oiRP_hlMn_VUjeTdMhp0Bhxc39UMCg86qmsxJ6pntUuS2-GvjMZkABcKayrkxNud_LazpiMu7PBR-RMMtiTYKHITWKaD9cpBDEqGi3A3DKsybvgh5_SSEhDdctRfXOGEKGdX8Z_X8MvYGhRAg0Txoz7uoI2rIFBljQJ7TTvvAw",
+        "width": 4160
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115688978186116997544\">lionel bologo</a>"
+        ],
+        "photo_reference": "CmRaAAAAvjowHTXRQg227liR6bVnRBsB3N1V17MPhCsoEdGnFotUGNOsSUseX3DCH4UCpoZ2tmNZ1ZbuHFEbLa9AVLwwkb1yQua2Azr3T7xxoFVpW-Kd7HUB2kfLqR_h1PklbpPZEhD0v6h2OtlPMOUsibE-xAU8GhQPla5JwkQ4c7MuNFinlH0qltVGGQ",
+        "width": 3120
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110284400502806249034\">Patrick Ngassa</a>"
+        ],
+        "photo_reference": "CmRaAAAA20dgXepqHskyr8PvnGu2slM35ysXD8nSwAenDMmMson47_WFd7VK4jSuNxShpd8GuiiJNdsaiyz2rKnudrK8Vrl8zT3hwwCl9c-JKLx8ujgF5Crc9PuVDnBmpErbDfCbEhC1sDsV6ys12wC-6hrbFmuGGhR9PkugXARK1BTPhL1vByE6WSmYVQ",
+        "width": 1080
+      }
+    ]
+  },
+  {
+    "id": "f07d52f829ec02acf9e107c1a167c886a5c0775a",
+    "name": "Fini Hotel",
+    "latlng": "4.167776, 11.539936",
+    "phone": "+237 2 33 33 26 97",
+    "place_id": "ChIJKfYicUKlixAR6WtTGYSLLU8",
+    "rating": 3.3,
+    "url": "https://maps.google.com/?cid=5705369702425127913",
+    "website": "http://www.finihotel.com/",
+    "address": "Fini Hotel, Obala, Cameroon",
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106394374289790099020\">Mélissa Mengue</a>"
+        ],
+        "photo_reference": "CmRaAAAA4rnHdYPshqUBtg5sjp6U8fmN7OiLsBj0nUuLBemvZzv1KoQ1FB7fFUTWBPfSksJUf5statp3_AlCqfydD5eQd1KeeUsOY5h-8rXwXySCU1WkW5qSuNOIc5wzf8mPsn9XEhCt8KsJmEKpugwJB1kkiV_FGhT5SQ2vs-gT2XuGrLpJlmlH3iidtw",
+        "width": 1728
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106394374289790099020\">Mélissa Mengue</a>"
+        ],
+        "photo_reference": "CmRaAAAAg2IheXi1oMfXxsL4_0zBwBb83bcI2UR8EdS53JAVs5-x90D9v4Sp7kLoMNlFUP-jWFRvSt6A-ioR9cXjtoFM2O8hBiqnwgTkKs3Sli3m9pN-sdjOMtHq2s8MyUAH_Qp6EhAmX02Ket13roPMNQCURUkkGhR2go2_Ml6XIxshVChPuhdhRXZwQA",
+        "width": 1728
+      },
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101318461887899594294\">Beris Joseph</a>"
+        ],
+        "photo_reference": "CmRaAAAAT0-hFuVIGEOt4ueOFCQU1H31eHlRxgw5MmIQs5Gsdw-NTXZQlmJnlSipJihE7Av0vvfW2_ZOxTPbpyZD_wY4Z-z2ShHIk_qVKQKcntQ6NkmG1jxAeybc8bauRs-GtVwkEhChoQrp2ignUifOxQRer8yMGhTHZzXxL4SvJ1RQAn92fU7vspzgZA",
+        "width": 1200
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106394374289790099020\">Mélissa Mengue</a>"
+        ],
+        "photo_reference": "CmRaAAAAHZZJmHC26p3ecm-73KeMcSwuUY-ox8G9X_xpAxayrKjdEFuuykO3bS8m0erJM6W9MVPPUN61QwLkjP9lqYEIQnG-4Q4jyyJtrOGmWkIkisKWYq3jW_MYQDkEu2UVHPO-EhDNFGlFIkOibgG_oeYtv9J2GhTuLfSPrQsyO_XKlSHulm9i89oXPQ",
+        "width": 1728
+      },
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106642528508313760608\">Alfred Djibrilla</a>"
+        ],
+        "photo_reference": "CmRaAAAAee7UwUANBCnwBoOmm5TVTT45hbRfMx7JYcuL-TUxvP5pbtw5BBzozTvoyjQ4kl_TTtIfldUFvP9wmbL-fpfTs3yPQ9UNeFqXlzNm16A647n5ymML2uzooN2mln9ucAw8EhDWDwLO_HCaTFHQ0ojI-wCuGhSMoSaBznZr1F3UZs5lslpdji6nYA",
+        "width": 2448
+      }
+    ]
+  },
+  {
+    "id": "b6f0e86052689e4321767981b599a358d5219461",
+    "name": "Liza Hotel",
+    "latlng": "3.8577597, 11.5070915",
+    "phone": "+237 6 70 00 00 14",
+    "place_id": "ChIJAQBwV5fPixARNWS5djvAiv8",
+    "rating": 3.4,
+    "url": "https://maps.google.com/?cid=18413741388085158965",
+    "website": "",
+    "address": "222307462 odza entree koweit, Yaounde, Cameroon",
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100666439350955040889\">Dominique Charreyre</a>"
+        ],
+        "photo_reference": "CmRaAAAAeaTmBMaFVT3tj6NhwjL5xw_wrJBeYUmdGMOSgf0lejsVVTffbOIMYhcQXKmxODYRJsM9q-balMQbeoCqx5HTbTPgkA8Rm5y8Ytv_5rw0kOzn5tzqwSs74OgV4cnyyA9iEhCMTWjVA08DDvOaUdBFCFaRGhTssYMZOJnMnIZOw0O2EuBh8HwQRA",
+        "width": 4608
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100666439350955040889\">Dominique Charreyre</a>"
+        ],
+        "photo_reference": "CmRaAAAAuzuMvaKnfVHRTLL3ITHc0cXgc4OVx4XHs-JsO-z08PAWlAy5SjOOqyhaz_Vv4m1EMhQrq8cjv6mW3_FU4F_1IlWp9YFtJ5LLka5-tpCnUCwTrDFf2f94lq-vKq6F5gQsEhALPz_W-IA_9ZdlI4Jrb28XGhSCyVVlstmrGpMBlM2_OoHHHCLEJA",
+        "width": 3456
+      }
+    ]
+  },
+  {
+    "id": "4693d56761f2b78be412ecc27eb49803959c0dba",
+    "name": "Hotel Clamantis",
+    "latlng": "3.884862199999999, 11.5191984",
+    "phone": "+237 6 51 23 17 78",
+    "place_id": "ChIJnbDpLGHPixARYReRfTN07rc",
+    "rating": 3.1,
+    "url": "https://maps.google.com/?cid=13253658517896763233",
+    "website": "",
+    "address": "Quartier Manguissa, Yaounde, Cameroon",
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103151308992539211038\">Phllix</a>"
+        ],
+        "photo_reference": "CmRaAAAA4mzgvhcPKjxhCYdiMXbpJN1BlAKAsRvZMC6Ela37Vl35eBFpcxTCwPJ2j3yS2LrZ-J92tyJxzkjBV6L-fiBSKaYa35cnjn4TVxMhKn0ieYFroNkG5zpIc4uz2J8_6W3YEhDRfzbvHcuEblTQPjpiKjZBGhTkVO-ywtVF3MJfGjQ-iDrouei6Nw",
+        "width": 3120
+      },
+      {
+        "height": 5312,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108791904869079711976\">Leslie NFOR</a>"
+        ],
+        "photo_reference": "CmRaAAAAQRkTyqUr6cmmbbH5z6bXiq5a6V2ljivjKM0hRTjFlV_uZNGqOi5y6tZVhbgKt_FxY2Sh4TtJ9c74rSXyx6QwOl5BV3P1afzcvUjpZ9YDpaFbJpIo1C17Qql20dm7nBsGEhC6UgxaXEGLl45xy9AsRt7LGhSOSUhPMf6vIHPTqbwWvGLWGK1bQg",
+        "width": 2988
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105644824009568474754\">تطوير ذاتي AL Jabar</a>"
+        ],
+        "photo_reference": "CmRaAAAA77C4_48UFM6fKtSOWHT8-Kzzrrvmy-QS-WkeTZSoz-JE-xFvtf6vk5kBgvDw0_eumi9k-4X7YKAi3AuAZRf6lYaIDfDC6jeLDLuzVVLvMRLe6fSKsxZhS2bKdJnykrWWEhCCFzTkcNEl0k3W1txTmWDKGhQCe0PXPquRPASsFlbyuXEmVP6KNA",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100492216529247628549\">Nel</a>"
+        ],
+        "photo_reference": "CmRaAAAAjLIKk2uSUouof-aOv9fqhcSDqBd1FYRaNhJFfIt43JeVOkBj_z-CtINP6ENMpiDew2AhIKuJaCQjwXvISDnCaS0LtXa2-wvYgrFab0tyuBPYA0mNEYoiv7ZRY8U7Gm7uEhCiC5nQaKDS07tH2ZRBDpEJGhSTUpr2DvOa-1QOjQ_VDW803T-7Kg",
+        "width": 2268
+      },
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106722390209451051119\">Jean Michel EBE BETAYENE</a>"
+        ],
+        "photo_reference": "CmRaAAAA8vAeeI35jU6rE6pYFKVxuP7u1N1xVgY3aErE871hETLljDD7wlP9mvtw_3EqIcH_JZ4RmUXR5si_Z0dXK5L4odOfgqXK0Hey-dU1uKJQr2CGiy17ZwrYx7fO5ylN5M3kEhDYwjQwasP4ESz-CkdHjPGQGhQqdu1D688Sq7kb4_jk2G5XERS1kw",
+        "width": 2160
+      },
+      {
+        "height": 3968,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112975316144238328701\">manuela fankem</a>"
+        ],
+        "photo_reference": "CmRaAAAAvvESTSyNz1XlvgvGtRPKkNV9q4m8y7p266DooBK9IhMxp0Ezu8vDuh-UJaWmw540CpDWlY1d9M-WbAxtpmEKUvhKfz5gxXbj8Wgjql9iGAtnBPYti1EXLTlOFk1znRlFEhBgl9pV0Lnj6hjjjytC5gh2GhRqQKFLu8gNPPqg4RkDDubF6Ezd-w",
+        "width": 2976
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114800788793109521227\">Yannick Fandio</a>"
+        ],
+        "photo_reference": "CmRaAAAAjBFxxl_jDQKSYLLKDINGPbSVZCOZet_BblueldF1bb6j3a-6W2TC0dBRkm0u9Y62lT6sszFqePbbIp9vj61f4T6cSaDpcEqxQX8-SYaD6UDrT4Y2PCB-VgRhd1XsRWCDEhDD_w_WgoGanGuvT2rmQQR4GhTr-PJxKLMEGwfrbHlS4_4GWxy8pw",
+        "width": 960
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100492216529247628549\">Nel</a>"
+        ],
+        "photo_reference": "CmRaAAAAK6bC2Rl4Ii0Astuu96fnTt9ccXSwoeHB6h52uVzocZhrQ3fK8cWp4ScsQqWq-0G-OHVpsePkqhEMlQWsTUViRvTSeujdfQBYn4W2a6KluE2OcxAKHhNl8OQR9x-94RNBEhAQ_hBhZw9B7fU6WUE4ZKW3GhTmaqAh5z7y1xWmWXN9KXwiiByVCg",
+        "width": 2268
+      },
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104832004769673742109\">Tayou Claude</a>"
+        ],
+        "photo_reference": "CmRaAAAAtJH9RJ51VO_W7VJx54puZSXqcsU2x59yQMA3d7MTRXjne-aeBMFaDm6tQPyTz0GIyV7P_lvW8Ho426TNoNvvLN0ErznJA_CEN9g5xwVx5wx7R7MXQ7poBT_vq4zWjWdTEhB3XGYD4EXZeMB56sF1zTWAGhTzcCQoBR1JS1BZMLf5DeLYC-xw0g",
+        "width": 2322
+      },
+      {
+        "height": 2976,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112975316144238328701\">manuela fankem</a>"
+        ],
+        "photo_reference": "CmRaAAAAoe2-kQyWPsE9Xvj1oFXnWsIFIMxq59Ks_EjCq24DgFNhyt8d-62ZQvB2RhwSPiucPEp0MAAXhHLUuV9ovP-PdMgTAr4E2p78KqQ_cTcadrJZ6eTV4CZ_6ApatV_vQzCHEhC46LXj9yqmkAy2VZ_bRU8QGhQR5u42WF7aLl2T2k3lAIS1nCO-AQ",
+        "width": 3968
+      }
+    ]
+  },
+  {
+    "id": "9f42468236c79b2fd3234b163cd1cc933f2d10fa",
+    "name": "Eliza Hotel",
+    "latlng": "3.883524, 11.49301",
+    "phone": "",
+    "place_id": "ChIJQX9gLhfPixAR0VspqXcZAJw",
+    "rating": 3.1,
+    "url": "https://maps.google.com/?cid=11241012671646620625",
+    "website": "https://travel.jumia.com/",
+    "address": "Quartier Carrière, Yaounde, Cameroon",
+    "photos": [
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114614832416477065120\">Noel Tatouk</a>"
+        ],
+        "photo_reference": "CmRaAAAACKUvGGnr8th4o-rmOdawqnXp31W8L950RelwFfGPDzqS2pqTZ-1N1OCv8V46d3YtCknt01MbykxzUfO--drwUQcH8G4fKCzt5OlSQ7sBuvTSBuzoxmavRWCOWUFwZSCxEhA9crJIIbafPmpZOzhmK7ZaGhQYxeGh0xYIxCz-EUv_e_dp_G4SpA",
+        "width": 2322
+      },
+      {
+        "height": 2322,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114614832416477065120\">Noel Tatouk</a>"
+        ],
+        "photo_reference": "CmRaAAAAHMbRtkZPj3FFxsV2vM2XCbrpNTV02g4PAYOZvOIEYEHh2JAFaKjRn3Clxi1tTVXeRU4XiGliWNIqD3bIkUiDVmijwtf5CPJeUdDXmiIPXd4RBwqHOBfmmEd-e9E0IIoHEhAVgFWLa7YNG2uk_J28GmRVGhRwUsiPVLjymxRCk7s9VVDTt0HNGw",
+        "width": 4128
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107965805723382743838\">Efue Forchap</a>"
+        ],
+        "photo_reference": "CmRaAAAAA9ojik9HfIoIpKEriq_Bcgql2sNPauvrzw5F9Det_Xvmp9oPsHG746S4weQLTBF6U9dz5a5ruy4uDyp-EoehWBNwX2k8ylWJY8nxGq8G6bIvG84SRF0r0k7pJ2-VZzxREhBsX4GaBnCot0fwUWiw6Qq2GhQxVqcBrkycwrkPTbiWd_pXtReGlw",
+        "width": 4160
+      },
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114614832416477065120\">Noel Tatouk</a>"
+        ],
+        "photo_reference": "CmRaAAAAQSIjDDsgHLzA8I6ulRLxJhizNZ-mZFVIRTBi38WRW6QDHIv3DxQ4tlmxUxJ8mPRsDTkwD-NUbAoV--B90jypdW4HbO5mXyZ4P8u8FKJOAn0SjlCXkRe9UoagqSiQZcfoEhCyNzHBG8QIRYWFDNoloGP_GhSvd-N1yI0SSugz8OmokcqyDt9tXg",
+        "width": 2322
+      },
+      {
+        "height": 2322,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114614832416477065120\">Noel Tatouk</a>"
+        ],
+        "photo_reference": "CmRaAAAAmXfsPgB9PtU3X4yQRGMCreIwwj3hkmtA8EjqRDdzdi9_42Z3PKUT_BvJPyRcHRbWiywb196vS-zKRzPhcEzQ3zovEoqOX9KjUgXkuLJxaJJG8xu8CBm9vKK7PcyVD77AEhBIMxAVLQ_nrracAYlf0IEyGhSJrpCp1t1lffl2ZKUkIFcf2O4M5A",
+        "width": 4128
+      },
+      {
+        "height": 2322,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114614832416477065120\">Noel Tatouk</a>"
+        ],
+        "photo_reference": "CmRaAAAA54cuwS4tj5SRJPvly0Az7O5sNW9AT0Fsqt6cCRBR4R2hkS4sAbWxhX-MGk8t2p2nZU383Rfs_delmrbCaAqwE0gLmrZCdmeZpl3yQtDwhiiUaDIs8eCy41MaxI7Bd3whEhBv0PkELy3StyTwJGfl9us_GhQ-Kzoqu9O-LPGjhvQpVYhJcZ41gg",
+        "width": 4128
+      },
+      {
+        "height": 5312,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104561650222711639554\">Serge Beyeme</a>"
+        ],
+        "photo_reference": "CmRaAAAA5FA20YPRTGVTfgiG7B7cByB5D7Y2g5Z9rNsElrERrFEy5J7XpH72PppaZURES2PrBaDgtaR5sv-rOg-JusFFZ0fhwJeqj5PDx_m6XDm7RJHzkvyvVjrHGBVXdjs6qVxoEhAU7M_JGupw93ruG3bWXLo3GhSJSykewFeY0qD_QcaIh-80P-yqpg",
+        "width": 2988
+      },
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104561650222711639554\">Serge Beyeme</a>"
+        ],
+        "photo_reference": "CmRaAAAARwGb4VxVg0kt_OoWqq2L-4A3IOqeRmPoR4xV06VbBHsqdK5FijgGtdlcaZZOxWpUHRnq6V6hamRtzcURRjOPD0JnOb7vbswE7hplTmRz-6k3r2DvgK9So5A_qdDfe3jOEhBA5YF_uoGVbNq7ER1Wd3DkGhQwUow6v8PDGkEj--8vfhxBYaqUIQ",
+        "width": 5312
+      },
+      {
+        "height": 2322,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114614832416477065120\">Noel Tatouk</a>"
+        ],
+        "photo_reference": "CmRaAAAAKgpqQ_-rBbUYyl73I5UH0jF-WO_Mz8o3H3y45ps95vA21_V9Zq54WcqroZMkzUhCeORuo2EsSLq4DZhBSfPEKXe5vapDubpzgBSQVs3R1kVOu2oxPofEeM9PthabGoo8EhBk79j9hSxc6VavA3Hh7MDWGhRLTltIqQbbgqcTnsDkUodgdLm5iw",
+        "width": 4128
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108952529653286955992\">Lesly Sahfan</a>"
+        ],
+        "photo_reference": "CmRaAAAAbhxQYIzUfldCiLBD5-Iokb_zi17jNyboet2wJbXvcCkbeUub9jK4v0fAM4SH4bPYKsK3uoTNeAL1u-EosNNAutkmRTuZqb16rAS0kJTvVlpsWY0HxGtSdXBkWhWSaCUYEhBwg7-07vnxqODUymoFIrOkGhRezeUh2hNLESEFUq1KVfruQHDIaQ",
+        "width": 3456
+      }
+    ]
+  }
+]

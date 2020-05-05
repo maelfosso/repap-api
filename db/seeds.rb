@@ -5,3 +5,38 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+require 'database_cleaner'
+
+DatabaseCleaner.clean_with(:truncation)
+API_KEY = 'AIzaSyBHaVnhN3gSB5otSpmKqutxuMaL878KItY'
+
+user = User.create!(
+  :name => "Bob Alice",
+  :email => "bob.alice@repap.com",
+  :phone => "+23769520125",
+  :password => "bobalice",
+  :password_confirmation => "bobalice"
+)
+
+
+path = File.join(File.dirname(__FILE__), "./hotels.json")
+records = JSON.parse(File.read(path))
+records.each do |record|
+  hotel = Hotel.create(
+    :name => record["name"],
+    :address => record["address"],
+    :phone => record["phone"].empty? ? Faker::PhoneNumber.phone_number : record["phone"],
+    :latlng => record["latlng"],
+    :price => Faker::Commerce.price,
+
+    :user => user
+  )
+
+  record["photos"].each do |photo|
+    url = "https://maps.googleapis.com/maps/api/place/photo?maxwidth=#{photo["width"]}&photoreference=#{photo["photo_reference"]}&key=#{API_KEY}"
+    download = open(url)
+
+    hotel.photos.attach(io: download, filename: Faker::File.file_name(ext: "jpg"))
+    hotel.save! 
+  end
+end

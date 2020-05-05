@@ -28,6 +28,9 @@ records.each do |record|
     :phone => record["phone"].empty? ? Faker::PhoneNumber.phone_number : record["phone"],
     :latlng => record["latlng"],
     :price => Faker::Commerce.price,
+    :website => record["website"],
+    :url => record["url"],
+    :ratings => record["ratings"],
 
     :user => user
   )

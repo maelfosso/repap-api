@@ -13,6 +13,9 @@ class User < ApplicationRecord
 
   has_many :hotels
 
+  has_many :favorites
+  has_many :favorite_hotels, :through => :favorites, :source => :hotels
+
   def payload
     return {
       email: self.email,

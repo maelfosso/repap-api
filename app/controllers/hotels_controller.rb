@@ -1,6 +1,10 @@
 class HotelsController < ApplicationController
   before_action :set_hotel, only: [:add_photo, :show]
 
+  def index
+    json_response Hotel.all
+  end
+
   def create
     @hotel = Hotel.new(hotel_params)
     @hotel.user = @current_user

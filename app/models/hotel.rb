@@ -10,6 +10,7 @@ class Hotel < ApplicationRecord
   validates :price, presence: true
   validates :address, presence: true
   validates :latlng, presence: true
+  validates :website, presence: true 
   
   validates :user, presence: true
 

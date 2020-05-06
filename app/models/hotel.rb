@@ -10,7 +10,6 @@ class Hotel < ApplicationRecord
   validates :price, presence: true
   validates :address, presence: true
   validates :latlng, presence: true
-  validates :website, presence: true 
   
   validates :user, presence: true
 
@@ -23,6 +22,9 @@ class Hotel < ApplicationRecord
       address: address,
       infos: infos,
       latlng: latlng,
+      website: website,
+      url: url,
+      rating: rating,
       errors: errors,
       photos: photos.map do |photo|
         {

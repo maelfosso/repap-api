@@ -30,7 +30,7 @@ records.each do |record|
     :price => Faker::Commerce.price,
     :website => record["website"],
     :url => record["url"],
-    :ratings => record["ratings"],
+    :rating => record["rating"],
 
     :user => user
   )

@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_04_28_005021) do
+ActiveRecord::Schema.define(version: 2020_05_05_140434) do
 
   create_table "active_storage_attachments", force: :cascade do |t|
     t.string "name", null: false
@@ -33,6 +33,16 @@ ActiveRecord::Schema.define(version: 2020_04_28_005021) do
     t.index ["key"], name: "index_active_storage_blobs_on_key", unique: true
   end
 
+  create_table "favorites", force: :cascade do |t|
+    t.integer "user_id", null: false
+    t.integer "hotel_id", null: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index "\"user\", \"hotel\"", name: "index_favorites_on_user_and_hotel", unique: true
+    t.index ["hotel_id"], name: "index_favorites_on_hotel_id"
+    t.index ["user_id"], name: "index_favorites_on_user_id"
+  end
+
   create_table "hotels", force: :cascade do |t|
     t.string "name"
     t.string "phone"
@@ -43,6 +53,9 @@ ActiveRecord::Schema.define(version: 2020_04_28_005021) do
     t.datetime "updated_at", precision: 6, null: false
     t.integer "user_id"
     t.decimal "price"
+    t.string "url"
+    t.string "website"
+    t.string "rating"
     t.index ["user_id"], name: "index_hotels_on_user_id"
   end
 
@@ -56,5 +69,7 @@ ActiveRecord::Schema.define(version: 2020_04_28_005021) do
   end
 
   add_foreign_key "active_storage_attachments", "active_storage_blobs", column: "blob_id"
+  add_foreign_key "favorites", "hotels"
+  add_foreign_key "favorites", "users"
   add_foreign_key "hotels", "users"
 end

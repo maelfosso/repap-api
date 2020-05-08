@@ -1,7 +1,14 @@
 class FavoritesController < ApplicationController
 
+  def index
+    @favorites = Favorite.where(user: @current_user).includes(:hotel)
+    json_response(@favorites);
+  end
+
   def create
-    @favorite = Favorite.new(favorite_params)
+    @favorite = Favorite.new(hotel_id: params[:hotel])
+    @favorite.user = @current_user
+
     if @favorite.save
       json_response(@favorite, :created)
     else

@@ -2,8 +2,9 @@ class Hotel < ApplicationRecord
   include Rails.application.routes.url_helpers
 
   belongs_to :user
-
   has_many_attached :photos
+  has_many :favorites
+
 
   validates :name, presence: true
   validates :phone, presence: true 
@@ -31,7 +32,8 @@ class Hotel < ApplicationRecord
           url: rails_blob_url(photo, only_path: true),
           id: photo.id
         }
-      end
+      end,
+      favorite: favorites.length > 0 ? favorites.first.id : false
     }
   end
 

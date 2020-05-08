@@ -2,7 +2,9 @@ class HotelsController < ApplicationController
   before_action :set_hotel, only: [:add_photo, :show]
 
   def index
-    json_response Hotel.all
+    hotels = Hotel.all
+    ActiveRecord::Associations::Preloader.new.preload(hotels, :favorites, Favorite.where(user: @current_user))
+    json_response hotels
   end
 
   def create

@@ -10,12 +10,19 @@ require 'database_cleaner'
 DatabaseCleaner.clean_with(:truncation)
 API_KEY = 'AIzaSyBHaVnhN3gSB5otSpmKqutxuMaL878KItY'
 
-user = User.create!(
-  :name => "Bob Alice",
-  :email => "bob.alice@repap.com",
+alice = User.create!(
+  :name => "Alice Bar",
+  :email => "alice.bar@repap.com",
   :phone => "+23769520125",
-  :password => "bobalice",
-  :password_confirmation => "bobalice"
+  :password => "alicebar",
+  :password_confirmation => "alicebar"
+)
+bob = User.create!(
+  :name => "Bob Bar",
+  :email => "bob.bar@repap.com",
+  :phone => "+23769520125",
+  :password => "bobbar",
+  :password_confirmation => "bobbar"
 )
 
 
@@ -30,10 +37,19 @@ records.each do |record|
     :price => Faker::Commerce.price,
     :website => record["website"],
     :url => record["url"],
-    :ratings => record["ratings"],
+    :rating => record["rating"],
 
-    :user => user
+    :user => [alice, bob].sample
   )
+
+  doit = [true, false].sample
+  if doit
+    Favorite.create!(:user => alice, :hotel => hotel)
+  end
+  doit = [true, false].sample
+  if doit
+    Favorite.create!(:user => bob, :hotel => hotel)
+  end
 
   record["photos"].each do |photo|
     url = "https://maps.googleapis.com/maps/api/place/photo?maxwidth=#{photo["width"]}&photoreference=#{photo["photo_reference"]}&key=#{API_KEY}"

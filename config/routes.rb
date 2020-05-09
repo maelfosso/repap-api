@@ -12,6 +12,7 @@ Rails.application.routes.draw do
   post "/hotels/:id/photos",  to: "hotels#add_photo"
   get  "/hotels/:id",         to: "hotels#show"
 
+  get  "/favorites",          to: "favorites#index"
   post "/favorites",          to: "favorites#create"
   delete "/favorites/:id",    to: "favorites#delete"
 end

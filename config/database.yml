@@ -21,5 +21,11 @@ test:
   database: db/test.sqlite3
 
 production:
-  <<: *default
+  adapter: postgresql
+  encoding: unicode
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+  timeout: 5000
   database: db/production.sqlite3
+  database: mv_final_repap-api
+  username: repap
+  password: <%= ENV['MYAPP_DATABASE_PASSWORD'] %>

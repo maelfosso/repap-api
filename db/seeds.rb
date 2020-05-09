@@ -5,9 +5,7 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
-require 'database_cleaner'
 
-DatabaseCleaner.clean_with(:truncation)
 API_KEY = 'AIzaSyBHaVnhN3gSB5otSpmKqutxuMaL878KItY'
 
 alice = User.create!(

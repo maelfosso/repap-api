@@ -20,6 +20,8 @@ class FavoritesController < ApplicationController
     json_response(Favorite.delete(params[:id]), :ok)
   end
 
+  private 
+  
   def favorite_params
     params.permit(:user, :hotel)
   end

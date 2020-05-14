@@ -30,6 +30,8 @@ class HotelsController < ApplicationController
     json_response(@hotel)
   end
 
+  private
+  
   def hotel_params
     params.permit(:name, :phone, :price, :address, :infos, :latlng)
   end

@@ -30,6 +30,8 @@ You can access to the web application [https://mv-final-repap-api.herokuapp.com]
 - rails db:seed
 - Run `rails server -p 4000`
 
+To run the tests, use `rspec`
+
 Be sure you run the Front-end part and that it is available at `http://localhost:3000`
 
 ## Features

@@ -3,7 +3,7 @@ class Hotel < ApplicationRecord
 
   belongs_to :user
   has_many_attached :photos
-  has_many :favorites
+  has_many :favorites, inverse_of: :hotel
 
 
   validates :name, presence: true

@@ -25,6 +25,9 @@ You can access to the web application [https://mv-final-repap-api.herokuapp.com]
 
 ## Getting Started
 - git clone `https://github.com/maelfosso/repap-api.git`
+- bundle install
+- rails db:setup
+- rails db:seed
 - Run `rails server -p 4000`
 
 Be sure you run the Front-end part and that it is available at `http://localhost:3000`

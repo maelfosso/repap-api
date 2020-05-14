@@ -2,7 +2,7 @@ class Favorite < ApplicationRecord
   include Rails.application.routes.url_helpers
 
   belongs_to :user
-  belongs_to :hotel
+  belongs_to :hotel, inverse_of: :favorites
 
   def as_json(_opts = {})
     {

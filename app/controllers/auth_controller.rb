@@ -31,9 +31,6 @@ class AuthController < ApplicationController
     end
   end
 
-  def logout
-  end
-
   def auto_login
     if session_user
       render json: session_user
@@ -42,9 +39,6 @@ class AuthController < ApplicationController
         errors: "No user logged in"
       }
     end 
-  end
-
-  def user_is_authed
   end
 
   private

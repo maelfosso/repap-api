@@ -41,5 +41,29 @@ RSpec.describe 'Users API', type: :request do
     end 
   end
 
+  describe 'Auto Login ' do
+    let (:user) { create(:user) }
+    let (:valid_headers) {{ 'Authorization' => token_generator(user) }}
+    let (:invalid_headers) {{ 'Authorization' => "Bearer " }}
+
+    context 'when valid request' do
+      before { get "/auth/auto_login", headers: valid_headers } 
+
+      it 'returns user object' do
+        expect(response.body).to eq(user.to_json)
+      end
+    end
+
+    context 'when invalid request' do 
+      context 'when missing token' do
+        before { get "/auth/auto_login", headers: invalid_headers } 
+
+        it 'raises an error' do
+          expect(response.body).to eq({errors: "No user logged in"}.to_json)
+        end
+      end
+    end
+
+  end 
 
 end

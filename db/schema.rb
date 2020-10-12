@@ -38,8 +38,8 @@ ActiveRecord::Schema.define(version: 2020_05_05_140434) do
     t.integer "hotel_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
-    t.index ["user_id", "hotel_id"], name: "index_favorites_on_user_and_hotel", unique: true
     t.index ["hotel_id"], name: "index_favorites_on_hotel_id"
+    t.index ["user_id", "hotel_id"], name: "index_favorites_on_user_id_and_hotel_id", unique: true
     t.index ["user_id"], name: "index_favorites_on_user_id"
   end
 

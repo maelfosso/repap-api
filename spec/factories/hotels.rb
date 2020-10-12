@@ -6,8 +6,6 @@ FactoryBot.define do
     phone { Faker::PhoneNumber.phone_number }
     latlng { "#{Faker::Address.latitude}, #{Faker::Address.longitude}" }
     price { Faker::Commerce.price }
-
-    user_id nil
     
   end
 end

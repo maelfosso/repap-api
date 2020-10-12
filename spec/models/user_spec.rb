@@ -6,5 +6,8 @@ RSpec.describe User, type: :model do
   it { should validate_presence_of(:email) }
   it { should validate_presence_of(:phone) }
 
+  it { should validate_length_of(:name).is_at_most(50) }
+  it { should validate_length_of(:phone).is_at_most(15) }
+
   it { should have_many(:hotels) }
 end

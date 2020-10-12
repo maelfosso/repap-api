@@ -4,6 +4,7 @@ class ApplicationController < ActionController::API
   before_action :require_login
 
   def encode_token(payload)
+    payload[:exp] = 24.hours.from_now.to_i
     JWT.encode(payload, "repap-api")
   end
   

@@ -1,5 +1,5 @@
 class HotelsController < ApplicationController
-  before_action :set_hotel, only: [:add_photo, :show]
+  before_action :set_hotel, only: %i[add_photo show]
 
   def index
     hotels = Hotel.all
@@ -21,7 +21,7 @@ class HotelsController < ApplicationController
     @hotel.photos.attach(params[:files])
     if @hotel.save
       json_response(@hotel, :created)
-    else 
+    else
       json_response(@hotel.errors, :unprocessable_entity)
     end
   end
@@ -31,7 +31,7 @@ class HotelsController < ApplicationController
   end
 
   private
-  
+
   def hotel_params
     params.permit(:name, :phone, :price, :address, :infos, :latlng)
   end
@@ -39,5 +39,4 @@ class HotelsController < ApplicationController
   def set_hotel
     @hotel = Hotel.find(params[:id])
   end
-
 end

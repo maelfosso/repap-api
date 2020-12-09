@@ -31,7 +31,7 @@ end
 group :development do
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3', '~> 1.4'
-  
+
   gem 'listen', '>= 3.0.5', '< 3.2'
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
@@ -47,9 +47,18 @@ gem 'tzinfo-data' # , platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'rubocop'
 
-gem 'jwt'
 gem 'bcrypt', '~> 3.1.7'
-gem 'rack-cors'
-gem 'faker', :git => 'https://github.com/faker-ruby/faker.git', :branch => 'master'
-
 gem 'database_cleaner-active_record'
+gem 'jwt'
+gem 'rack-cors'
+
+group :development, :test do
+  gem 'rspec-rails'
+end
+
+group :test do
+  gem 'database_cleaner'
+  gem 'factory_bot_rails'
+  gem 'faker', git: 'https://github.com/faker-ruby/faker.git', branch: 'master'
+  gem 'shoulda-matchers'
+end

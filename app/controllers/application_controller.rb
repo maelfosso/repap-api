@@ -1,30 +1,31 @@
 class ApplicationController < ActionController::API
   include Response
-  
+
   before_action :require_login
 
   def encode_token(payload)
-    JWT.encode(payload, "repap-api")
+    payload[:exp] = 24.hours.from_now.to_i
+    JWT.encode(payload, 'repap-api')
   end
-  
+
   def session_user
     decoded_hash = decoded_token
-    if !decoded_hash.empty?
-      email = decoded_hash[0]['email']
-      @current_user = User.find_by(email: email)
-    else 
-      nil
-    end
+    return if decoded_hash.empty?
+
+    email = decoded_hash[0]['email']
+    @current_user = User.find_by(email: email)
   end
 
   def logged_in?
-    !!session_user
+    !session_user.nil?
   end
 
   def require_login
+    return if logged_in?
+
     render json: {
       message: 'Please login'
-    }, status: :unauthorized unless logged_in?
+    }, status: :unauthorized
   end
 
   def auth_header
@@ -32,13 +33,13 @@ class ApplicationController < ActionController::API
   end
 
   def decoded_token
-    if auth_header
-      token = auth_header.split(' ')[1]
-      begin
-        JWT.decode(token, 'repap-api', true, algorithm: 'HS256')
-      rescue JWT::DecodeError
-        []
-      end
+    return unless auth_header
+
+    token = auth_header.split(' ')[1]
+    begin
+      JWT.decode(token, 'repap-api', true, algorithm: 'HS256')
+    rescue JWT::DecodeError
+      []
     end
   end
 end

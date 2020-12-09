@@ -1,8 +1,7 @@
 class FavoritesController < ApplicationController
-
   def index
     @favorites = Favorite.where(user: @current_user).includes(:hotel)
-    json_response(@favorites);
+    json_response(@favorites)
   end
 
   def create
@@ -20,10 +19,9 @@ class FavoritesController < ApplicationController
     json_response(Favorite.delete(params[:id]), :ok)
   end
 
-  private 
-  
+  private
+
   def favorite_params
     params.permit(:user, :hotel)
   end
-  
 end

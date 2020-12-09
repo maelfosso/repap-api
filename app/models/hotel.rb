@@ -5,13 +5,12 @@ class Hotel < ApplicationRecord
   has_many_attached :photos
   has_many :favorites, inverse_of: :hotel
 
-
   validates :name, presence: true
-  validates :phone, presence: true 
+  validates :phone, presence: true
   validates :price, presence: true
   validates :address, presence: true
   validates :latlng, presence: true
-  
+
   validates :user, presence: true
 
   def as_json(_opts = {})
@@ -33,8 +32,7 @@ class Hotel < ApplicationRecord
           id: photo.id
         }
       end,
-      favorite: favorites.length > 0 ? favorites.first.id : false
+      favorite: !favorites.empty? ? favorites.first.id : false
     }
   end
-
 end

@@ -1,5 +1,5 @@
 class AuthController < ApplicationController
-  skip_before_action :require_login, only: [:registration, :login, :auto_login]
+  skip_before_action :require_login, only: %i[registration login auto_login]
 
   def registration
     user = User.create(registration_params)
@@ -18,15 +18,15 @@ class AuthController < ApplicationController
 
   def login
     user = User.find_by(email: params[:username]) || User.find_by(phone: params[:username])
-    if user && user.authenticate(params[:password])
+    if user&.authenticate(params[:password])
       token = encode_token(user.payload)
       render json: {
         user: user,
         jwt: token
       }
-    else 
+    else
       render json: {
-        failure: "Log in failed! Username or password invalid!"
+        failure: 'Log in failed! Username or password invalid!'
       }, status: :not_acceptable
     end
   end
@@ -34,11 +34,11 @@ class AuthController < ApplicationController
   def auto_login
     if session_user
       render json: session_user
-    else 
+    else
       render json: {
-        errors: "No user logged in"
+        errors: 'No user logged in'
       }
-    end 
+    end
   end
 
   private
@@ -46,5 +46,4 @@ class AuthController < ApplicationController
   def registration_params
     params.require(:auth).permit(:email, :phone, :name, :password, :password_confirmation)
   end
-
 end
